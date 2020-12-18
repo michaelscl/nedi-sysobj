@@ -3,8 +3,8 @@
 # General
 SNMPv	1
 Type	Winlink-P2MP
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	RADIO
 Icon	wbyn
 Size	1

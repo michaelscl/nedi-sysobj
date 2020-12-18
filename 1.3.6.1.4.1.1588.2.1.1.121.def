@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	ED-DCX8510-4B
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	fcrn
 Size	1

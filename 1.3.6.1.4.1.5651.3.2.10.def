@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2
-Type	RM1800-10W
-TypOID	
-DesOID	
+Type	Maipu-RM1800-10W
+Typoid	
+Sysdes	
 OS	other
 Icon	rsan
 Size	0

@@ -3,7 +3,6 @@
 # General
 SNMPv	2
 Type	GS-2108C
-TypOID
 OS	other
 Icon	w2ap
 Size	1
@@ -47,4 +46,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-Custom	
+MemIO	

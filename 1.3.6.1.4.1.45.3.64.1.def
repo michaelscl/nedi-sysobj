@@ -3,7 +3,6 @@
 # General
 SNMPv	2HC
 Type	470-48T-PWR
-TypOID
 OS	Nortel
 Icon	w2od
 Size	1
@@ -47,4 +46,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-Custom	
+MemIO	

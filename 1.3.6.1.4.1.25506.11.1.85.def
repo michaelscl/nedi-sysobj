@@ -4,9 +4,9 @@
  
 # General
 SNMPv	2HC
-Type	1910-48G
-TypOID	
-DesOID	
+Type	HP1910-48G
+Typoid	
+Sysdes	
 OS	Comware
 Icon	w3gp
 Size	1

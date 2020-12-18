@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	NG Baracuda Firewall
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	fwan
 Size	1

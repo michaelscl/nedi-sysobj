@@ -1,59 +1,57 @@
-# Definition for 1.3.6.1.4.1.9.1.558 created by Defgen 2.0 on 4.Dec 2014 (admin)
-
-# Main
+# Definition for 1.3.6.1.4.1.9.1.558 created by Defgen 1.8 on 30.Aug 2013 (admin)
+ 
+# General
 SNMPv	2HC
-Type	VG224
-TypOID
-DesOID
+Type	ciscoVG224
+Typoid	
+Sysdes	
 OS	IOS
 Icon	rsbn
 Size	1
-Uptime	S
-Bridge
+Bridge	
 ArpND	old
 Dispro	CDP
 Serial	1.3.6.1.4.1.9.3.6.3.0
 Bimage	1.3.6.1.4.1.9.2.1.73.0
 CfgChg	1.3.6.1.4.1.9.9.43.1.1.1.0
 CfgWrt	1.3.6.1.4.1.9.9.43.1.1.3.0
-VLnams
-VLnamx
-Group
-Mode
-Fanstat	1.3.6.1.4.1.9.9.13.1.4.1.3	1|5
-
+VLnams	
+VLnamx	
+Group	
+Mode	
+ 
 # Interfaces
-StartX
-EndX
+StartX	
+EndX	
 IFname	1.3.6.1.2.1.31.1.1.1.1
 IFaddr	old
 IFalia	1.3.6.1.2.1.31.1.1.1.18
-IFalix
+IFalix	
 InBcast	1.3.6.1.2.1.31.1.1.1.3
 InDisc	1.3.6.1.2.1.2.2.1.13
 OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan
-IFvlix
-IFpowr
-IFpwix
-IFdupl
-IFduix
+IFvlan	
+IFvlix	
+IFpowr		
+IFpwix	
+IFdupl	
+IFduix	
 Halfdp	1
 Fulldp	2
-
+ 
 # Modules
-Modesc
-Moclas
-Movalu
-Moslot
-Modhw
-Modsw
-Modfw
-Modser
-Momodl
-
+Modesc	1.3.6.1.2.1.47.1.1.1.1.2
+Moclas	1.3.6.1.2.1.47.1.1.1.1.5
+Movalu	9
+Moslot	1.3.6.1.2.1.47.1.1.1.1.7
+Modhw	1.3.6.1.2.1.47.1.1.1.1.8
+Modsw	1.3.6.1.2.1.47.1.1.1.1.10
+Modfw	1.3.6.1.2.1.47.1.1.1.1.9
+Modser	1.3.6.1.2.1.47.1.1.1.1.11
+Momodl	1.3.6.1.2.1.47.1.1.1.1.13
+ 
 # RRD Graphing
-CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1
-Temp
-MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1		1024
-Custom	MemIO;G;Bytes	1.3.6.1.4.1.9.9.48.1.1.1.6.2	-1024000
+CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1	
+Temp		
+MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1	
+Custom	MemIO;G;Bytes	1.3.6.1.4.1.9.9.48.1.1.1.6.2

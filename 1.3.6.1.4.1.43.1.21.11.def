@@ -2,9 +2,8 @@
 
 # General
 SNMPv	2HC
-Type	NJ2000 
-TypOID
-DesOID	
+Type	3Com-NJ2000 
+Sysdes	
 OS	other
 Icon	w2gp
 Size	1

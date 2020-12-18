@@ -1,44 +1,41 @@
-# Definition for 1.3.6.1.4.1.1916.2.62 created by Defgen 2.0 on 15.Nov 2016 (admin)
+# Definition for 1.3.6.1.4.1.1916.2.62 created by Defgen 2.0 on 21.Oct 2014 (admin)
 
 # Main
 SNMPv	2HC
 Type	BD8810
-TypOID
-DesOID
+Typoid	
+Sysdes	
 OS	Xware
 Icon	c3pd
 Size	10
-Uptime	U
 Bridge	normalX
 ArpND	oldip6
 Dispro	LLDPXN
 Serial	1.3.6.1.2.1.47.1.1.1.1.11.1
 Bimage	1.3.6.1.4.1.1916.1.1.1.13.0
-CfgChg
-CfgWrt
-FTPConf
+CfgChg	
+CfgWrt	
 VLnams	1.3.6.1.4.1.1916.1.2.1.2.1.2
 VLnamx	1.3.6.1.4.1.1916.1.2.1.2.1.10
-Group
-Mode
-Fanstat	1.3.6.1.4.1.1916.1.1.1.9.1.4	2000-6000
+Group	
+Mode	
 
 # Interfaces
-StartX
-EndX
+StartX	
+EndX	
 IFname	1.3.6.1.2.1.31.1.1.1.1
-IFaddr	oldip6
+IFaddr	oldip6	
 IFalia	1.3.6.1.2.1.31.1.1.1.18
-IFalix
+IFalix	
 InBcast	1.3.6.1.2.1.31.1.1.1.3
 InDisc	1.3.6.1.2.1.2.2.1.13
 OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1	S
-IFvlix	1.3.6.1.2.1.17.1.4.1.2
-IFpowr
-IFpwix
+IFvlan	
+IFvlix	
+IFpowr		
+IFpwix	
 IFdupl	1.3.6.1.2.1.10.7.2.1.19
-IFduix
+IFduix	
 Halfdp	2
 Fulldp	3
 
@@ -52,12 +49,16 @@ Modsw	1.3.6.1.2.1.47.1.1.1.1.9
 Modfw	1.3.6.1.2.1.47.1.1.1.1.10
 Modser	1.3.6.1.2.1.47.1.1.1.1.11
 Momodl	1.3.6.1.2.1.47.1.1.1.1.13
-Modloc
-Mostat
-Mostok
 
 # RRD Graphing
-CPUutl	1.3.6.1.4.1.1916.1.32.1.4.1.9.11
-Temp	1.3.6.1.4.1.1916.1.1.1.8.0
-MemCPU	1.3.6.1.4.1.1916.1.32.2.2.1.3.11	1024
-Custom
+CPUutl	1.3.6.1.4.1.1916.1.32.1.4.1.9.11	
+Temp	1.3.6.1.4.1.1916.1.1.1.8.0	
+MemCPU		
+Custom		
+
+-- 
+Remo Rickli
+NeDi Consulting
+mail rickli@nedi.ch
+voip +41 41 511 98 41
+cell +41 76 699 21 96

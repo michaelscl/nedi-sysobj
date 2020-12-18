@@ -2,9 +2,9 @@
  
 # Main
 SNMPv	2HC
-Type	cisco886VA
-TypOID	
-DesOID	
+Type	cisco886VA-K9
+Typoid	
+Sysdes	
 OS	IOS-rtr
 Icon	rsbn
 Size	0

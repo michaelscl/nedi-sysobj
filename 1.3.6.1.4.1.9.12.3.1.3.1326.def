@@ -2,9 +2,9 @@
  
 # Main
 SNMPv	2HC
-Type	DS-C9250i
-TypOID	
-DesOID	
+Type	DS-C9250i-k9
+Typoid	
+Sysdes	
 OS	other
 Icon	fcbn
 Size	2

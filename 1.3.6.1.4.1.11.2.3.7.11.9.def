@@ -2,8 +2,7 @@
 
 # General
 SNMPv	2HC
-Type	4000M
-TypOID
+Type	HP4000M
 OS	other
 Icon	c2gp
 Size	4
@@ -46,5 +45,5 @@ Momodl
 # RRD Graphing
 CPUutl	1.3.6.1.4.1.11.2.14.11.5.1.9.6.1.0
 Temp	
-MemCPU	1.3.6.1.4.1.11.2.14.11.5.1.1.2.1.1.1.6.1		1024
-Custom	
+MemCPU	1.3.6.1.4.1.11.2.14.11.5.1.1.2.1.1.1.6.1
+MemIO	

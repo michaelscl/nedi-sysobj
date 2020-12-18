@@ -1,10 +1,10 @@
-# Definition for 1.3.6.1.4.1.2636.1.1.1.2.64 created by Defgen 2.0 on 30.Oct 2014 (admin)
+# Definition for 1.3.6.1.4.1.2636.1.1.1.2.64 created by Defgen 1.8 on 11.Jul 2014 (ya09968)
  
-# Main
+# General
 SNMPv	2HC
-Type	SRX110
-TypOID	1.3.6.1.2.1.47.1.1.1.1.13.1
-DesOID	
+Type	
+Typoid	1.3.6.1.2.1.47.1.1.1.1.13.1
+Sysdes	
 OS	JunOS
 Icon	fwgn
 Size	1
@@ -24,7 +24,7 @@ Mode
 StartX	
 EndX	
 IFname	1.3.6.1.2.1.31.1.1.1.1
-IFaddr	old	
+IFaddr	old
 IFalia	1.3.6.1.2.1.31.1.1.1.18
 IFalix	
 InBcast	1.3.6.1.2.1.31.1.1.1.3

@@ -3,8 +3,8 @@
 # General
 SNMPv	2
 Type	Ciena-Le311
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	LEOS
 Icon	w2yd
 Size	1

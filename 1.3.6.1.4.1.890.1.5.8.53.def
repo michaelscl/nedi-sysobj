@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	GS2200-48
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	w2ad
 Size	1

@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	GENEREX - UPS
-TypOID	1.3.6.1.2.1.33.1.1.2.0
-DesOID	
+Typoid	1.3.6.1.2.1.33.1.1.2.0
+Sysdes	
 OS	UPS
 Icon	upan
 Size	1

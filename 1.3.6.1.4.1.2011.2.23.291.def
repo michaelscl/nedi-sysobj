@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	S5720-56C-PWR-EI-AC
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	HuaweiVRP
 Icon	w3ad
 Size	1

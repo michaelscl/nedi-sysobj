@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	OS6450-10
-TypOID	
-DesOID	
+Type	ALU-OS6450-10
+Typoid	
+Sysdes	
 OS	Omnistack
 Icon	w3yp
 Size	0

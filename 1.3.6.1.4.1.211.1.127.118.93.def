@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	Fujitsu PY CB Eth Switch 10Gb
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	w2an
 Size	1

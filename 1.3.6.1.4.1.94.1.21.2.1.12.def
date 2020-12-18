@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	IP740
-TypOID	
-DesOID	
+Type	Nokia-IP740
+Typoid	
+Sysdes	
 OS	other
 Icon	fwan
 Size	1

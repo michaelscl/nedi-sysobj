@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	DS-C9706
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	NXOS
 Icon	fcbn
 Size	9

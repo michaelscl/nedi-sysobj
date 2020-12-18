@@ -2,9 +2,8 @@
 
 # General
 SNMPv	2HC
-Type	SS3-3870-48
-TypOID
-DesOID	
+Type	3Com-SS3-3870-48
+Sysdes	
 OS	other
 Icon	w3gd
 Size	1

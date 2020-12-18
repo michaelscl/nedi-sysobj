@@ -1,27 +1,24 @@
-# Definition for 1.3.6.1.4.1.9.1.1256 created by Defgen 2.0 on 2.May 2017 (admin)
+# Definition for 1.3.6.1.4.1.9.1.1256 created by Defgen 1.8 on 3.Dec 2012 (admin)
 
-# Main
-SNMPv	2HC
+# General
+SNMPv	 2HC
 Type	WS-C2960S-48TS-S
-TypOID
-DesOID
+Typoid
+Sysdes
 OS	IOS
-Icon	w2bn
+Icon	w2an
 Size	1
-Uptime	S
 Bridge	VLX
-ArpND
+ArpND	old
 Dispro	CDP
 Serial	1.3.6.1.4.1.9.3.6.3.0
 Bimage	1.3.6.1.4.1.9.2.1.73.0
 CfgChg	1.3.6.1.4.1.9.9.43.1.1.1.0
-CfgWrt	1.3.6.1.4.1.9.9.43.1.1.2.0
-FTPConf
+CfgWrt	1.3.6.1.4.1.9.9.43.1.1.3.0
 VLnams	1.3.6.1.4.1.9.9.46.1.3.1.1.4.1
 VLnamx
 Group	1.3.6.1.4.1.9.9.46.1.2.1.1.2.1
 Mode	1.3.6.1.4.1.9.9.46.1.2.1.1.3.1
-Fanstat	1.3.6.1.4.1.9.9.13.1.4.1.3	1|5
 
 # Interfaces
 StartX
@@ -30,9 +27,9 @@ IFname	1.3.6.1.2.1.31.1.1.1.1
 IFaddr	old
 IFalia
 IFalix
-InBcast
+InBcast 1.3.6.1.2.1.31.1.1.1.3
 InDisc	1.3.6.1.2.1.2.2.1.13
-OutDisc	1.3.6.1.2.1.2.2.1.19
+OutDisc 1.3.6.1.2.1.2.2.1.19
 IFvlan	1.3.6.1.4.1.9.9.68.1.2.2.1.2
 IFvlix
 IFpowr
@@ -45,16 +42,16 @@ Fulldp	2
 # Modules
 Modesc	1.3.6.1.2.1.47.1.1.1.1.2
 Moclas	1.3.6.1.2.1.47.1.1.1.1.5
-Movalu	10
+Movalu	9
 Moslot	1.3.6.1.2.1.47.1.1.1.1.7
-Modhw
-Modfw
-Modsw
+Modhw	1.3.6.1.2.1.47.1.1.1.1.8
+Modsw	1.3.6.1.2.1.47.1.1.1.1.10
+Modfw	1.3.6.1.2.1.47.1.1.1.1.9
 Modser	1.3.6.1.2.1.47.1.1.1.1.11
-Momodl	1.3.6.1.2.1.47.1.1.1.1.2
+Momodl	1.3.6.1.2.1.47.1.1.1.1.13
 
 # RRD Graphing
 CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1
 Temp
-MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1		1024
-Custom	MemIO;G;Bytes	1.3.6.1.4.1.9.9.48.1.1.1.6.2	-1024000
+MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1
+Custom	MemIO;G;Bytes	 1.3.6.1.4.1.9.9.48.1.1.1.6.2

@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	BigIP-3600
-TypOID	
-DesOID	
+Type	F5-BigIP-3600
+Typoid	
+Sysdes	
 OS	other
 Icon	lban
 Size	2

@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	SG510-ProxySG
-TypOID	
-DesOID	
+Type	BC-SG510-ProxySG
+Typoid	
+Sysdes	
 OS	other
 Icon	csan
 Size	1

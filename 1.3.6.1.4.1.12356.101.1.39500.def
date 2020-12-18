@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	3950B
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	FortiOS
 Icon	fwan
 Size	3

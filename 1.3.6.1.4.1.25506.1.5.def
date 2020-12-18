@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	5500-28F-EI
-TypOID
-DesOID
+Type	HP5500-28F-EI
+Typoid
+Sysdes
 OS	Comware
 Icon	w3gn
 Size	1

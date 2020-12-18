@@ -3,8 +3,8 @@
 # General
 SNMPv	 1
 Type	FESX424
-TypOID
-DesOID
+Typoid
+Sysdes
 OS	Ironware
 Icon	w3rn
 Size	1
@@ -53,4 +53,4 @@ Momodl	1.3.6.1.4.1.1991.1.1.2.2.1.1.2
 CPUutl	1.3.6.1.4.1.1991.1.1.2.1.52.0
 Temp	1.3.6.1.4.1.1991.1.1.1.1.18.0
 MemCPU	1.3.6.1.4.1.1991.1.1.2.1.55.0
-Custom
+Custom	MemIO;G;Bytes

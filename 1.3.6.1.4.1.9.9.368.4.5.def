@@ -3,12 +3,11 @@
 # General
 SNMPv	2HC
 Type	CSS11503
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	IOS-css
 Icon	csbn
 Size	1
-Uptime	S
 Bridge	
 ArpND	old
 Dispro	

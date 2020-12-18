@@ -2,8 +2,7 @@
 
 # General
 SNMPv	2
-Type	 SG 810
-TypOID
+Type	BlueCoat SG 810
 OS	other
 Icon	cspn
 Size	10

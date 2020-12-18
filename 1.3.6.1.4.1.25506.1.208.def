@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	7503
-TypOID	
-DesOID	
+Type	HP7503
+Typoid	
+Sysdes	
 OS	Comware
 Icon	c3gp
 Size	10

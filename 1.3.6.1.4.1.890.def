@@ -3,12 +3,11 @@
 # General
 SNMPv	2
 Type	MES-2110
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	w2ap
 Size	0
-Uptime	U
 Bridge	normal
 ArpND	
 Dispro	

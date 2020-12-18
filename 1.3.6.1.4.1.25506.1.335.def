@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	5800-48G
-TypOID	
-DesOID	
+Type	HP5800-48G
+Typoid	
+Sysdes	
 OS	Comware
 Icon	w3gd
 Size	1

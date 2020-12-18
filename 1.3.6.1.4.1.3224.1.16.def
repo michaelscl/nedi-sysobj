@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	ISG-2000
-TypOID	
-DesOID	
+Type	Juniper-ISG-2000
+Typoid	
+Sysdes	
 OS	other
 Icon	fwan
 Size	1

@@ -1,64 +1,56 @@
-# Definition for 1.3.6.1.4.1.388.16 created by Defed 1.0 on 27.Feb 2018 (admin)
+# Definition for 1.3.6.1.4.1.388.16 created by Defgen 1.8 on 23.Sep 2012 (admin)
 
-# Main
-SNMPv	1
-Type	RFS6000
-TypOID	
-DesOID	
+# General
+SNMPv	2HC
+Type	Motorola-RFS6000
+Typoid	
+Sysdes	
 OS	other
-Icon	wcan
+Icon	wban
 Size	1
-Uptime	U
 Bridge	normal
 ArpND	
 Dispro	LLDP
-Serial	1.3.6.1.4.1.388.50.1.3.1.5.0
-Bimage	1.3.6.1.4.1.388.50.1.3.2.1.0
-VLnams	
+Serial	1.3.6.1.4.1.388.14.1.9.1.2.6.0
+Bimage	1.3.6.1.4.1.388.14.1.2.1.2.1.2.7
+
+VLnams	1.3.6.1.4.1.388.14.2.4.1.1.1.11.3
 VLnamx	
 Group	
 Mode	
-CfgChg	
-CfgWrt	
-FTPConf	
-Fanstat		
 
 # Interfaces
 StartX	
 EndX	
-IFname	1.3.6.1.2.1.31.1.1.1.1
-IFaddr	adr	
-IFalia	1.3.6.1.2.1.31.1.1.1.18
-IFalix	
+IFname	
+IFaddr	
+IFalia	
+IFalix	1.3.6.1.4.1.388.14.2.4.1.1.1.9.3
 InBcast	
-InDisc	1.3.6.1.2.1.2.2.1.13
-OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan		
+InDisc	
+OutDisc	
+IFvlan	1.3.6.1.4.1.388.14.2.4.1.1.1.11.3
 IFvlix	
-IFpowr		
+IFpowr	
 IFpwix	
 IFdupl	
 IFduix	
-Halfdp	2
-Fulldp	3
+Halfdp	
+Fulldp	
 
 # Modules
-Modom			
-Moslot	
+Modesc	1.3.6.1.4.1.388.14.1.6.1.3.2.1.5
 Moclas	
 Movalu	
-Modesc	
-Modhw	
+Moslot	
+Modhw	1.3.6.1.4.1.388.14.1.6.1.3.2.1.4
+Modsw	1.3.6.1.4.1.388.14.1.6.1.3.2.1.3
 Modfw	
-Modsw	
 Modser	
 Momodl	
-Modloc	
-Mostat	
-Mostok	
 
 # RRD Graphing
-CPUutl			
-Temp			
-MemCPU			
-Custom			
+CPUutl	1.3.6.1.4.1.388.14.1.6.1.4.2.0
+Temp	1.3.6.1.4.1.388.14.1.6.1.12.1.2.3.0	0.1
+MemCPU	1.3.6.1.4.1.388.14.1.6.1.15.3.0	
+Custom		

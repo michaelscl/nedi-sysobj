@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	FC-Switch
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	fcrn
 Size	0

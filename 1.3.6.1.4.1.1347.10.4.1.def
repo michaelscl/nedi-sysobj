@@ -3,8 +3,8 @@
 # General
 SNMPv	1
 Type	iburst
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	c2od
 Size	20

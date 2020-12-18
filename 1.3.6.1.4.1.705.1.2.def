@@ -1,65 +1,54 @@
-# Definition for 1.3.6.1.4.1.705.1.2 created by Defed 1.9 on 5.Feb 2019 (admin)
+# Definition for 1.3.6.1.4.1.705.1.2 created by m.rufer
+#MGE Galaxy UPS
+#CPU=output load %
+#MemCPU=Input voltage of phase 1
+#MemIO=Battery voltage of phase 1
+#temperature sensor
 
-# Main
+# General
 SNMPv	1
 Type	MGE-GalaxyUPS
-TypOID	1.3.6.1.2.1.33.1.1.2.0
-NamOID	
-DesOID	
-OS	UPS
-Icon	upan
+OS	other
+Icon	csan
 Size	10
-Uptime	U
 Bridge	
-ArpND	
+ArpND	old
 Dispro	
 Serial	1.3.6.1.4.1.705.1.1.7.0
-Bimage	1.3.6.1.2.1.33.1.1.3.0
+#Bimage	1.3.6.1.2.1.33.1.1.4.0
+
 VLnams	
-VLnamx	
 Group	
 Mode	
-CfgChg	
-CfgWrt	
-FTPConf	
-Fanstat		
 
 # Interfaces
-StartX	
-EndX	
 IFname	1.3.6.1.2.1.31.1.1.1.1
-IFaddr		
+IFaddr	old
 IFalia	1.3.6.1.2.1.31.1.1.1.18
 IFalix	
 InBcast	1.3.6.1.2.1.31.1.1.1.3
 InDisc	1.3.6.1.2.1.2.2.1.13
 OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan		
+IFvlan	
 IFvlix	
-IFpowr		
-IFpwix	
 IFdupl	
 IFduix	
 Halfdp	1
 Fulldp	2
 
 # Modules
-Modom		
-Moslot	
+Modesc	
 Moclas	
 Movalu	
-Modesc	
+Moslot	
 Modhw	
-Modfw	
 Modsw	
+Modfw	
 Modser	
 Momodl	
-Modloc	
-Mostat	
-Mostok	
 
 # RRD Graphing
-CPUutl	1.3.6.1.2.1.33.1.4.4.1.5.1		
-Temp	1.3.6.1.2.1.33.1.2.7.0		
-MemCPU	1.3.6.1.2.1.33.1.2.4.0	%	50
-Custom	Vin;G;V	1.3.6.1.2.1.33.1.3.3.1.3.1	
+CPUutl	1.3.6.1.2.1.33.1.4.4.1.5.1
+Temp	1.3.6.1.2.1.33.1.2.7.0
+MemCPU	1.3.6.1.2.1.33.1.3.3.1.3.1
+MemIO	1.3.6.1.2.1.33.1.4.4.1.2.1

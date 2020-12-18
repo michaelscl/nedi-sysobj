@@ -8,9 +8,9 @@ SNMPv	2HC
 
 Type	M5300-28GF3
 
-TypOID	
+Typoid	
 
-DesOID	
+Sysdes	
 
 OS	Netgear
 

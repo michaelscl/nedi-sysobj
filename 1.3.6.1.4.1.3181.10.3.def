@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	MS650851PM-48
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	w2ap
 Size	0

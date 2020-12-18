@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	HPE 5130-48G
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Comware
 Icon	w3gd
 Size	1

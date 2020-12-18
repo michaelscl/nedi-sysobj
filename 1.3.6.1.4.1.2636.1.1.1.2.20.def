@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	6350-JB
-TypOID	
-DesOID	
+Type	Juniper-6350-JB
+Typoid	
+Sysdes	
 OS	JunOS
 Icon	rman
 Size	4

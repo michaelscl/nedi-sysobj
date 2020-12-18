@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	AV1200
-TypOID	
-DesOID	
+Type	BC-AV1200
+Typoid	
+Sysdes	
 OS	other
 Icon	csan
 Size	1

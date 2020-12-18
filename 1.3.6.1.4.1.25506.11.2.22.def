@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	6608
-TypOID	
-DesOID	
+Type	HP6608
+Typoid	
+Sysdes	
 OS	Comware
 Icon	rbgn
 Size	10

@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	GS2200-8
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	ZyNOS
 Icon	w2ap
 Size	0

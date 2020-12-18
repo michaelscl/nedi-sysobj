@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	Vyatta-5415
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Vyatta
 Icon	sprn
 Size	0

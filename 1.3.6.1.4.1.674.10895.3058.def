@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	N3048
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	DPCN
 Icon	w2cd
 Size	1

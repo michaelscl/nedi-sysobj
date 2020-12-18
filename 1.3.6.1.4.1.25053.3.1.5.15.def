@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	ZD1200
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	ZDOS
 Icon	wcan
 Size	1

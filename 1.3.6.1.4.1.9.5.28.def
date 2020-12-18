@@ -3,7 +3,6 @@
 # General
 SNMPv	1
 Type	WS-C1924
-TypOID
 OS	Cat1900
 Icon	w2bn
 Size	1
@@ -49,4 +48,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-Custom	
+MemIO	

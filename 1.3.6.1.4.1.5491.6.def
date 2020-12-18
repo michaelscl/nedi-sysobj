@@ -3,8 +3,8 @@
 # Main
 SNMPv	1
 Type	MGE-GalaxyUPS
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	upan
 Size	10

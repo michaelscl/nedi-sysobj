@@ -3,8 +3,8 @@
 # General
 SNMPv	2
 Type	Cisco Prime NCS
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	csbn
 Size	1

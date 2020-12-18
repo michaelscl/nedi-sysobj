@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	12508
-TypOID	
-DesOID	
+Type	HP12508
+Typoid	
+Sysdes	
 OS	Comware
 Icon	c3gn
 Size	22

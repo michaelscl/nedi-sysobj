@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	A5500-24G-4SFP
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Comware
 Icon	w3gn
 Size	1

@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	MSR30-20
-TypOID	
-DesOID	
+Type	HPMSR30-20
+Typoid	
+Sysdes	
 OS	Comware
 Icon	rmgn
 Size	4

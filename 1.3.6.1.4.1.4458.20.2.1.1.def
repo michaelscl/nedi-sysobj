@@ -3,8 +3,8 @@
 # General
 SNMPv	2
 Type	Winlink-P2P
-TypOID	
-DesOID	1.3.6.1.4.1.4458.1000.1.1.1.0
+Typoid	
+Sysdes	1.3.6.1.4.1.4458.1000.1.1.1.0
 OS	other
 Icon	wbrn
 Size	1

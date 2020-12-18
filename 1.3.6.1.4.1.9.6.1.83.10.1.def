@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	SG300-10
-TypOID	
-DesOID	1.3.6.1.4.1.9.6.1.101.53.14.1.11.1
+Typoid	
+Sysdes	1.3.6.1.4.1.9.6.1.101.53.14.1.11.1
 OS	other
 Icon	w2bp
 Size	1

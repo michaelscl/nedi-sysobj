@@ -2,8 +2,7 @@
 
 # General
 SNMPv	2HC
-Type	NetScreen-SA-4500
-TypOID
+Type	Juniper NetScreen-SA-4500
 OS	other
 Icon	vpgn
 Size	1

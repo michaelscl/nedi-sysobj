@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	SRX210H-POE
-TypOID	
-DesOID	
+Type	Juniper-SRX210H-POE
+Typoid	
+Sysdes	
 OS	JunOS
 Icon	rsan
 Size	1

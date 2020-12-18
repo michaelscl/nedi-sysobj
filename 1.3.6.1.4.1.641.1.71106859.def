@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	T650
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Printer
 Icon	pgan
 Size	1
@@ -18,7 +18,7 @@ CfgWrt
 VLnams	
 VLnamx	
 Group	
-Mode	7
+Mode	
  
 # Interfaces
 StartX	

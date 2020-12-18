@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	MSM750
-TypOID	
-DesOID	
+Type	HPMSM750
+Typoid	
+Sysdes	
 OS	MSM
 Icon	wcgn
 Size	1

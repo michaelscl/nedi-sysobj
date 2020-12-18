@@ -4,8 +4,8 @@
 # General
 SNMPv	2HC
 Type	A1000R
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	atan
 Size	1

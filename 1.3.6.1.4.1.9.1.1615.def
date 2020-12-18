@@ -2,9 +2,9 @@
  
 # Main
 SNMPv	2HC
-Type	AIR-CT8510
-TypOID	
-DesOID	
+Type	AIR-CT8510-K9
+Typoid	
+Sysdes	
 OS	IOS-wlc
 Icon	wcbn
 Size	1

@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	EX8216
-TypOID	
-DesOID	
+Type	Juniper-EX8216
+Typoid	
+Sysdes	
 OS	JunOS
 Icon	c3ad
 Size	20

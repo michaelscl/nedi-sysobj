@@ -3,8 +3,7 @@
 # General
 SNMPv	2
 Type	XSR-3150
-TypOID
-DesOID	
+Sysdes	
 OS	EOS
 Icon	rman
 Size	4

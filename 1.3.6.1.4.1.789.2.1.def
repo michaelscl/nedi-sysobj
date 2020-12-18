@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	Filer
-TypOID	1.3.6.1.4.1.789.1.1.5.0
-DesOID	
+Typoid	1.3.6.1.4.1.789.1.1.5.0
+Sysdes	
 OS	other
 Icon	stan
 Size	1

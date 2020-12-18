@@ -3,7 +3,6 @@
 # General
 SNMPv	2
 Type	350-24T
-TypOID
 OS	Baystack
 Icon	w2on
 Size	1
@@ -47,4 +46,4 @@ Momodl	1.3.6.1.4.1.45.1.6.3.3.1.1.5
 CPUutl	
 Temp	
 MemCPU	
-Custom	
+MemIO	

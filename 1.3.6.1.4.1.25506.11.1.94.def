@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	3600-24-SFP
-TypOID	
-DesOID	
+Type	HP3600-24-SFP
+Typoid	
+Sysdes	
 OS	Comwar3
 Icon	w3gn
 Size	1
@@ -54,4 +54,4 @@ Momodl	1.3.6.1.2.1.47.1.1.1.1.13
 CPUutl	
 Temp		
 MemCPU		
-Custom
+Custom	MemIO;G;Bytes	

@@ -3,7 +3,6 @@
 # General
 SNMPv	2HC
 Type	2526T-PWR
-TypOID
 OS	Nortel
 Icon	w3on
 Size	1
@@ -47,4 +46,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-Custom	
+MemIO	

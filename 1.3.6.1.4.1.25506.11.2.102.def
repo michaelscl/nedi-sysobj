@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	VSR1000
-TypOID	
-DesOID	
+Type	HPVSR1000
+Typoid	
+Sysdes	
 OS	Comware
 Icon	spgn
 Size	0

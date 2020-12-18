@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	5810-48G
-TypOID	
-DesOID	
+Type	HP5810-48G
+Typoid	
+Sysdes	
 OS	Comware
 Icon	w3gn
 Size	1

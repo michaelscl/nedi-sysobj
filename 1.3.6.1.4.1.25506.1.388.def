@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	9505
-TypOID	
-DesOID	
+Type	HP9505
+Typoid	
+Sysdes	
 OS	Comware
 Icon	c3gp
 Size	4

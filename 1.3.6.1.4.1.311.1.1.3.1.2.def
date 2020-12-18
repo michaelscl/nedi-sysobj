@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	NTserver
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	hvms
 Size	1
@@ -54,4 +54,4 @@ Momodl
 CPUutl		
 Temp		
 MemCPU		
-Custom
+Custom	MemIO;G;Bytes	

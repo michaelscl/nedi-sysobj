@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	X440G2-24p-10G4
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	XOS
 Icon	w3pn
 Size	1
@@ -56,7 +56,7 @@ Mostat
 Mostok	
  
 # RRD Graphing
-CPUutl	1.3.6.1.4.1.1916.1.1.1.28.0		
-Temp	1.3.6.1.4.1.1916.1.1.1.8.0		
+CPUutl	1.3.6.1.4.1.1916.1.1.1.28.0		75
+Temp	1.3.6.1.4.1.1916.1.1.1.8.0		75
 MemCPU	1.3.6.1.4.1.1916.1.32.2.2.1.3.1	1024	4096
 Custom			

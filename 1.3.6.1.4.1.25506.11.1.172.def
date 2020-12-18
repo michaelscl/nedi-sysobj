@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	HP 5700-40XG
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Comware
 Icon	w3gd
 Size	1

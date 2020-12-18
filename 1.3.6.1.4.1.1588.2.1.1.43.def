@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	VC-FC
-TypOID	
-DesOID	
+Type	HPVC-FC
+Typoid	
+Sysdes	
 OS	other
 Icon	fcgn
 Size	1

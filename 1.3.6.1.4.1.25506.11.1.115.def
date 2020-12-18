@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	1910
-TypOID	
-DesOID	
+Type	HP1910
+Typoid	
+Sysdes	
 OS	other
 Icon	w2gp
 Size	1

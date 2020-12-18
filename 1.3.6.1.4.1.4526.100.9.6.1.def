@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	M6100
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Netgear
 Icon	c3an
 Size	4

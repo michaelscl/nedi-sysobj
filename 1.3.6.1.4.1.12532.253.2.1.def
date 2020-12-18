@@ -2,8 +2,7 @@
 
 # General
 SNMPv	2HC
-Type	NetScreen-IC-4500
-TypOID
+Type	Juniper NetScreen-IC-4500
 OS	other
 Icon	wbrn
 Size	1

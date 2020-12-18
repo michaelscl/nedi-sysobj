@@ -2,9 +2,9 @@
 
 # General
 SNMPv	 2HC
-Type	3100-8
-TypOID
-DesOID
+Type	HP3100-8
+Typoid
+Sysdes
 OS	Comwar3
 Icon	w2gp
 Size	1

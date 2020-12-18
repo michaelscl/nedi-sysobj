@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	EX2200
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	JunOS
 Icon	rsan
 Size	1

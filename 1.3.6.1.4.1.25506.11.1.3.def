@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	7503
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Comware
 Icon	c3gp
 Size	10

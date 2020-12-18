@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	TP-IPS
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	csan
 Size	1

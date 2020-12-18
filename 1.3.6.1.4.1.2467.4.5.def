@@ -3,12 +3,11 @@
 # General
 SNMPv	1
 Type	CSS
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	IOS-css
 Icon	csbn
 Size	1
-Uptime	S
 Bridge	
 ArpND	
 Dispro	none

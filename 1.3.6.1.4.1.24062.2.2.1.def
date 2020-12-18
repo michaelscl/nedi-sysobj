@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	JetNet5010G
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	w2ap
 Size	1

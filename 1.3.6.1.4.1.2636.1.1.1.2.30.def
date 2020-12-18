@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	Ex3200-48T
-TypOID	
-DesOID	
+Type	Juniper-Ex3200-48T
+Typoid	
+Sysdes	
 OS	JunOS
 Icon	w2ad
 Size	1

@@ -3,8 +3,8 @@
 # Main 
 SNMPv	2HC 
 Type	5800-24G-SFP 
-TypOID	 
-DesOID	 
+Typoid	 
+Sysdes	 
 OS	Comware 
 Icon	w3gn 
 Size	1 

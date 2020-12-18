@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	Ciena-Cn3940
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	w2pd
 Size	1

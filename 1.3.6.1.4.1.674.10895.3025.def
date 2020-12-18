@@ -1,11 +1,11 @@
-# Definition for 1.3.6.1.4.1.674.10895.3025 created by Defgen 2.0 on 16.Nov 2014 (admin)
+# Definition for 1.3.6.1.4.1.674.10895.3025 created by Defgen 1.8 on 11.Apr 2014 (root)
  
-# Main
+# General
 SNMPv	2HC
-Type	M6348
-TypOID	
-DesOID	
-OS	other
+Type	Dell-M6348
+Typoid	
+Sysdes	
+OS	Powerconnect
 Icon	spcn
 Size	0
 Bridge	qbri
@@ -24,7 +24,7 @@ Mode
 StartX	
 EndX	
 IFname	1.3.6.1.2.1.31.1.1.1.1
-IFaddr		
+IFaddr	
 IFalia	1.3.6.1.2.1.31.1.1.1.18
 IFalix	
 InBcast	1.3.6.1.2.1.31.1.1.1.3

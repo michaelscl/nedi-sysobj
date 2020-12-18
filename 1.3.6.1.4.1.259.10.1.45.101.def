@@ -1,29 +1,27 @@
-# Definition for 1.3.6.1.4.1.259.10.1.45.101 created by Defed 1.9 on 15.Oct 2018 (admin)
-
+# Definition for 1.3.6.1.4.1.259.10.1.45.101 created by Defgen 2.0 on 22.Mar 2017 (admin)
+ 
 # Main
 SNMPv	2HC
-Type	ECS4120-28T
-TypOID	
-NamOID	
-DesOID	
+Type	ECS-4120-28T
+Typoid	
+Sysdes	
 OS	Edgecore
 Icon	w2an
 Size	1
-Uptime	U
+Uptime	S
 Bridge	qbri
 ArpND	
-Dispro	LLDP
+Dispro	
 Serial	1.3.6.1.4.1.259.10.1.45.1.1.3.1.10.1
 Bimage	1.3.6.1.4.1.259.10.1.45.1.1.3.1.6.1
+CfgChg	
+CfgWrt	
+FTPConf	
 VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1
 VLnamx	
 Group	
 Mode	
-CfgChg	
-CfgWrt	
-FTPConf	
-Fanstat		
-
+ 
 # Interfaces
 StartX	
 EndX	
@@ -42,24 +40,23 @@ IFdupl	1.3.6.1.2.1.10.7.2.1.19
 IFduix	
 Halfdp	2
 Fulldp	3
-
+ 
 # Modules
-Modom	E	
-Moslot	
-Moclas	
-Movalu	
-Modesc	
-Modhw	
-Modfw	
-Modsw	
-Modser	
-Momodl	
+Modesc	1.3.6.1.2.1.47.1.1.1.1.2
+Moclas	1.3.6.1.2.1.47.1.1.1.1.5
+Movalu	9
+Moslot	1.3.6.1.2.1.47.1.1.1.1.7
+Modhw	1.3.6.1.2.1.47.1.1.1.1.8
+Modsw	1.3.6.1.2.1.47.1.1.1.1.9
+Modfw	1.3.6.1.2.1.47.1.1.1.1.10
+Modser	1.3.6.1.2.1.47.1.1.1.1.11
+Momodl	1.3.6.1.2.1.47.1.1.1.1.13
 Modloc	
 Mostat	
 Mostok	
-
+ 
 # RRD Graphing
-CPUutl	1.3.6.1.4.1.259.10.1.45.1.39.2.3.0		
+CPUutl	1.3.6.1.4.1.259.10.1.45.1.39.2.3.0		50
 Temp	1.3.6.1.4.1.259.10.1.45.1.1.11.1.3.1.1		70
-MemCPU	1.3.6.1.4.1.259.10.1.45.1.39.3.4.0	%	30
+MemCPU			
 Custom			

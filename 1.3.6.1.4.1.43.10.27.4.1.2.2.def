@@ -2,9 +2,9 @@
 
 # General
 SNMPv	1
-Type	SuperStack3-3300
-TypOID	
-DesOID	
+Type	3Com-SuperStack3-3300
+Typoid	
+Sysdes	
 OS	other
 Icon	w2gn
 Size	1

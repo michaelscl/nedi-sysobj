@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	IES1248-51
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	dsan
 Size	2

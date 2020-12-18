@@ -3,8 +3,8 @@
 # General
 SNMPv	2
 Type	420-24T
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Baystack
 Icon	w2on
 Size	1

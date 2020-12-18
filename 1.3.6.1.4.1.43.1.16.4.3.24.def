@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	4500-PWR50
-TypOID	
-DesOID	
+Type	3Com-4500-PWR50
+Typoid	
+Sysdes	
 OS	other
 Icon	w3gd
 Size	1

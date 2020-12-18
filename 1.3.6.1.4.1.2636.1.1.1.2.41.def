@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	SRX100
-TypOID	
-DesOID	
+Type	Juniper SRX100
+Typoid	
+Sysdes	
 OS	JunOS
 Icon	rsan
 Size	1

@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	2350-JH
-TypOID	
-DesOID	
+Type	Juniper-2350-JH
+Typoid	
+Sysdes	
 OS	JunOS
 Icon	rsan
 Size	1

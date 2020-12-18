@@ -2,8 +2,8 @@
 # Main
 SNMPv	1
 Type	PowerWalker UPS NMC
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	upan
 Size	1

@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	Summit200-24
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	Xware
 Icon	w3pd
 Size	1

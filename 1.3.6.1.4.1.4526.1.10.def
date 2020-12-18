@@ -2,8 +2,7 @@
 
 # General
 SNMPv	2
-Type	FSM726
-TypOID
+Type	Netgear FSM726
 OS	other
 Icon	w2an
 Size	1
@@ -47,4 +46,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-Custom	
+MemIO	

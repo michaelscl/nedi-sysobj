@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	s25n
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	DPC
 Icon	w2cd
 Size	1

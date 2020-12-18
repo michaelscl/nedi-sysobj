@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	SecPath F100-C-G
-TypOID	
-DesOID	
+Typoid	
+Sysdes	
 OS	other
 Icon	fwgn
 Size	1

@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	1910-24G
-TypOID	
-DesOID	
+Type	HP-V1910
+Typoid	
+Sysdes	
 OS	Comware
 Icon	w2gn
 Size	1

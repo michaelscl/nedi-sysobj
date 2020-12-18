@@ -2,8 +2,7 @@
 
 # General
 SNMPv	2
-Type	BigIP 1600
-TypOID
+Type	F5 BigIP 1600
 OS	other
 Icon	csrn
 Size	10
