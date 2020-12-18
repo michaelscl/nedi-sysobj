@@ -2,9 +2,9 @@
  
 # Main
 SNMPv	2HC
-Type	WS-SVC-WISM2-K-K9
-Typoid	
-Sysdes	
+Type	WS-SVC-WISM2-K
+TypOID	
+DesOID	
 OS	IOS-wlc
 Icon	wcbn
 Size	1

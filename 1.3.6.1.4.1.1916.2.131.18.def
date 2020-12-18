@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	summitWM3400
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	XwareWM
 Icon	wapn
 Size	1

@@ -6,6 +6,7 @@
 # General
 SNMPv	2
 Type	SMC2586W-G-EU
+TypOID
 OS	SMC
 Icon	wban
 Size	1
@@ -49,4 +50,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-MemIO	
+Custom	

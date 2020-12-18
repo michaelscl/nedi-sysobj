@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	WG-xtm515
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	fwan
 Size	1

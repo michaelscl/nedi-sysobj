@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	XSR-1850
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	EOS
 Icon	rsan
 Size	1

@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	Juniper-Netscreen-5000
-Typoid	
-Sysdes	
+Type	Netscreen-5000
+TypOID	
+DesOID	
 OS	other
 Icon	fwan
 Size	1

@@ -2,8 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	3Com-4800G-PWR-24
-Sysdes	
+Type	4800G-PWR-24
+TypOID
+DesOID	
 OS	Comware
 Icon	w3gn
 Size	1

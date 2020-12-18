@@ -3,11 +3,11 @@
 
 # General
 SNMPv	2HC
-Type	Enterasys C3G124-24
-Typoid
-Sysdes
+Type	C3G124-24
+TypOID
+DesOID
 OS	other
-Icon	Enterasys
+Icon	w2pn
 Bridge	normal
 ArpND	
 Dispro	LLDP

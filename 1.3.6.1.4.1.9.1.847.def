@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	cisco887
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	IOS-rtr
 Icon	rsbn
 Size	0
@@ -57,5 +57,5 @@ Modloc
 # RRD Graphing
 CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1	
 Temp		
-MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1	
+MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1		1024
 Custom		

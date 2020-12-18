@@ -1,13 +1,14 @@
-# Definition for 1.3.6.1.4.1.25506.1.232 created by Defgen 1.8 on 26.May 2014 (admin)
+# Definition for 1.3.6.1.4.1.25506.1.232 created by Defgen 2.0 on 5.Sep 2016 (admin)
  
-# General
+# Main
 SNMPv	2HC
-Type	HPMSR20-11
-Typoid	
-Sysdes	
+Type	MSR20-11
+TypOID	
+DesOID	
 OS	Comware
 Icon	rsgn
 Size	0
+Uptime	U
 Bridge	qbriX
 ArpND	oldip6
 Dispro	LLDPXN
@@ -15,6 +16,7 @@ Serial	1.3.6.1.2.1.47.1.1.1.1.11.1
 Bimage	1.3.6.1.2.1.47.1.1.1.1.10.1
 CfgChg	1.3.6.1.4.1.25506.2.4.1.1.1.0
 CfgWrt	1.3.6.1.4.1.25506.2.4.1.1.3.0
+FTPConf	
 VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1
 VLnamx	
 Group	
@@ -30,7 +32,7 @@ IFalix
 InBcast	1.3.6.1.2.1.31.1.1.1.3
 InDisc	1.3.6.1.2.1.2.2.1.13
 OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1
+IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1	
 IFvlix	
 IFpowr		
 IFpwix	
@@ -49,9 +51,12 @@ Modsw	1.3.6.1.2.1.47.1.1.1.1.10
 Modfw	1.3.6.1.2.1.47.1.1.1.1.9
 Modser	1.3.6.1.2.1.47.1.1.1.1.11
 Momodl	1.3.6.1.2.1.47.1.1.1.1.13
+Modloc	
+Mostat	
+Mostok	
  
 # RRD Graphing
-CPUutl	1.3.6.1.4.1.25506.2.6.1.1.1.1.6.3	
-Temp		
-MemCPU	1.3.6.1.4.1.25506.2.6.1.1.1.1.8.3	-%
-Custom		
+CPUutl	1.3.6.1.4.1.25506.2.6.1.1.1.1.6.3		
+Temp			
+MemCPU	1.3.6.1.4.1.25506.2.6.1.1.1.1.8.3	-%	25
+Custom			

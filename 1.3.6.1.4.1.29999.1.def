@@ -2,9 +2,9 @@
  
 # General
 SNMPv	1
-Type	HP Printer
-Typoid	1.3.6.1.4.1.2699.1.2.1.2.1.1.2.1
-Sysdes	1.3.6.1.2.1.25.3.2.1.3.1
+Type	 Printer
+TypOID	1.3.6.1.4.1.2699.1.2.1.2.1.1.2.1
+DesOID	1.3.6.1.2.1.25.3.2.1.3.1
 OS	Printer
 Icon	pchp
 Size	1
@@ -18,7 +18,7 @@ CfgWrt
 VLnams	
 VLnamx	
 Group	
-Mode	
+Mode	7
  
 # Interfaces
 StartX	

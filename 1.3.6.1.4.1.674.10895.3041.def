@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	PowerConnect-8024
-Typoid	none
-Sysdes	
+TypOID	none
+DesOID	
 OS	other
 Icon	w2an
 Size	1

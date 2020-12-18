@@ -1,10 +1,10 @@
-# Definition for 1.3.6.1.4.1.674.10895.3024 created by Defgen 1.8 on 24.Jan 2014 (admin)
+# Definition for 1.3.6.1.4.1.674.10895.3024 created by Defgen 2.0 on 30.Oct 2014 (admin)
  
-# General
+# Main
 SNMPv	2HC
-Type	Powerconnect8024F
-Typoid	
-Sysdes	
+Type	Powerconnect-8024F
+TypOID	
+DesOID	
 OS	other
 Icon	w2cn
 Size	1
@@ -24,7 +24,7 @@ Mode
 StartX	
 EndX	
 IFname	1.3.6.1.2.1.31.1.1.1.1
-IFaddr	adr
+IFaddr	adr	
 IFalia	1.3.6.1.2.1.31.1.1.1.18
 IFalix	
 InBcast	1.3.6.1.2.1.31.1.1.1.3

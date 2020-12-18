@@ -3,8 +3,8 @@
 # General
 SNMPv	1
 Type	DWL-7100AP
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	waan
 Size	1

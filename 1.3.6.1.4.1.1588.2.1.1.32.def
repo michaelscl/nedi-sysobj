@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	HP4100
-Typoid	
-Sysdes	
+Type	4100
+TypOID	
+DesOID	
 OS	other
 Icon	fcgn
 Size	1

@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	BigIron RX
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Ironware
 Icon	w2an
 Size	24

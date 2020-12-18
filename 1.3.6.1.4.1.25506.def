@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	HPSimware7
-Typoid	
-Sysdes	
+Type	Simware7
+TypOID	
+DesOID	
 OS	other
 Icon	vsgn
 Size	0

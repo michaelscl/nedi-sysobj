@@ -3,8 +3,8 @@
 # Main
 SNMPv	1
 Type	SuD2011_12E
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	w2an
 Size	1

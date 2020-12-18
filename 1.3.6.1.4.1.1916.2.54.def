@@ -2,12 +2,13 @@
 
 # General
 SNMPv	2HC
-Type	200-48
-Typoid
-Sysdes
+Type	Summit200-48
+TypOID
+DesOID
 OS	Xware
 Icon	w3pd
 Size	1
+Uptime	S
 Bridge	normal
 ArpND
 Dispro	LLDP

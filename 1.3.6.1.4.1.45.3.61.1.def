@@ -3,6 +3,7 @@
 # General
 SNMPv	2HC
 Type	325-24T
+TypOID
 OS	Nortel
 Icon	w2on
 Size	1
@@ -46,4 +47,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-MemIO	
+Custom	

@@ -2,9 +2,9 @@
 
 # General
 SNMPv	1
-Type	Nokia-CP
-Typoid	
-Sysdes	
+Type	CP
+TypOID	
+DesOID	
 OS	other
 Icon	fwan
 Size	1

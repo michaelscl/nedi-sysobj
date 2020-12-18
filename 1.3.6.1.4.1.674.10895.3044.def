@@ -1,13 +1,14 @@
-# Definition for 1.3.6.1.4.1.674.10895.3044 created by Defgen 1.8 on 29.Jul 2014 (admin)
- 
-# General
+# Definition for 1.3.6.1.4.1.674.10895.3044 created by Defed 1.0 on 29.Sep 2017 (admin)
+
+# Main
 SNMPv	2HC
 Type	PowerConnect-N4032F
-Typoid	
-Sysdes	
-OS	DPC
+TypOID	
+DesOID	
+OS	DPCN
 Icon	w2cn
 Size	1
+Uptime	U
 Bridge	qbri
 ArpND	
 Dispro	LLDP
@@ -15,11 +16,12 @@ Serial	1.3.6.1.4.1.674.10895.3000.1.2.100.8.1.4.1
 Bimage	1.3.6.1.4.1.674.10895.3000.1.2.100.4.0
 CfgChg	
 CfgWrt	
+FTPConf	
 VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1
 VLnamx	
 Group	
 Mode	
- 
+
 # Interfaces
 StartX	
 EndX	
@@ -30,7 +32,7 @@ IFalix
 InBcast	1.3.6.1.2.1.31.1.1.1.3
 InDisc	
 OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan	
+IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1	
 IFvlix	
 IFpowr		
 IFpwix	
@@ -38,20 +40,23 @@ IFdupl
 IFduix	
 Halfdp	
 Fulldp	
- 
+
 # Modules
 Modesc	1.3.6.1.2.1.47.1.1.1.1.2
 Moclas	1.3.6.1.2.1.47.1.1.1.1.5
 Movalu	9
 Moslot	1.3.6.1.2.1.47.1.1.1.1.7
 Modhw	
-Modsw	
-Modfw	1.3.6.1.2.1.47.1.1.1.1.10
+Modfw	1.3.6.1.2.1.47.1.1.1.1.9
+Modsw
 Modser	1.3.6.1.2.1.47.1.1.1.1.11
 Momodl	1.3.6.1.2.1.47.1.1.1.1.13
- 
+Modloc	
+Mostat	
+Mostok	
+
 # RRD Graphing
-CPUutl		
-Temp		
-MemCPU		
-Custom		
+CPUutl			
+Temp			
+MemCPU			
+Custom			

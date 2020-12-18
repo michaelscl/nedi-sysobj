@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	3Com-4500G-PWR26
-Typoid	
-Sysdes	
+Type	4500G-PWR26
+TypOID	
+DesOID	
 OS	Comware
 Icon	w3gn
 Size	1

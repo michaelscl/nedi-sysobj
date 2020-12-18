@@ -3,8 +3,8 @@
 # General
 SNMPv	1
 Type	Nexans-ES3
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	w2ad
 Size	1

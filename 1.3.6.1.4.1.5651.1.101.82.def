@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	Maipu-2900
-Typoid	
-Sysdes	
+Type	2900
+TypOID	
+DesOID	
 OS	other
 Icon	rman
 Size	1

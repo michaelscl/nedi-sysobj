@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	Alteon-3408E
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	lban
 Size	1

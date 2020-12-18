@@ -2,8 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	3Com-5500G-EI 48
-Sysdes	
+Type	5500G-EI 48
+TypOID
+DesOID	
 OS	Comwar3
 Icon	w3gd
 Size	1

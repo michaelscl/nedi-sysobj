@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	HPWX3010
-Typoid	
-Sysdes	
+Type	WX3010
+TypOID	
+DesOID	
 OS	other
 Icon	csgn
 Size	1

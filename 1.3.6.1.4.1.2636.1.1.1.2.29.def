@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	MX240
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	JunOS
 Icon	c3an
 Size	5

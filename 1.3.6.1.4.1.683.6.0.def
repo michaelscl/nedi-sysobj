@@ -1,0 +1,65 @@
+# Definition for 1.3.6.1.4.1.683.6.0 created by Defed 1.9 on 9.Nov 2018 (monitos)
+
+# Main
+SNMPv	1
+Type	ZebraNet
+TypOID	1.3.6.1.4.1.683.6.2.3.2.1.15.1
+NamOID	
+DesOID	
+OS	other
+Icon	pgan
+Size	1
+Uptime	U
+Bridge	
+ArpND	old
+Dispro	
+Serial	1.3.6.1.4.1.10642.200.19.5.0
+Bimage	1.3.6.1.4.1.10642.200.39.2.0
+VLnams	
+VLnamx	
+Group	
+Mode	
+CfgChg	
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	
+IFaddr	adr	
+IFalia	
+IFalix	
+InBcast	
+InDisc	1.3.6.1.2.1.2.2.1.13
+OutDisc	1.3.6.1.2.1.2.2.1.19
+IFvlan		
+IFvlix	
+IFpowr		
+IFpwix	
+IFdupl	
+IFduix	
+Halfdp	
+Fulldp	
+
+# Modules
+Modom		
+Moslot	
+Moclas	
+Movalu	
+Modesc	
+Modhw	
+Modfw	
+Modsw	
+Modser	
+Momodl	
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl			
+Temp			
+MemCPU			
+Custom			

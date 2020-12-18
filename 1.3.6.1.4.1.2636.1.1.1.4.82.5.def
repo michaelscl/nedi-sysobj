@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	QFX5100-48S-6Q
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	JunOS
 Icon	w3ad
 Size	1

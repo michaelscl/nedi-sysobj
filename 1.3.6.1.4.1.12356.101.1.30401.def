@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	FGT_3140B
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	FortiOS
 Icon	fwan
 Size	1

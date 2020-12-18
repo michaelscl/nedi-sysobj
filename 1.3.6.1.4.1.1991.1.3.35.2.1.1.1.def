@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	FWSX448
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Ironware
 Icon	w2rd
 Size	2

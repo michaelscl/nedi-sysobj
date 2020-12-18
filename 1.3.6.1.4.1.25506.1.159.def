@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	HP7510
-Typoid	
-Sysdes	
+Type	7510
+TypOID	
+DesOID	
 OS	Comware
 Icon	c3gd
 Size	16

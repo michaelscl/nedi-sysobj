@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	S3220
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	rsan
 Size	1

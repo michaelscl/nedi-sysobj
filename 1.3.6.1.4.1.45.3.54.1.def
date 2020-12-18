@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	470-24T
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Nortel
 Icon	w2on
 Size	1

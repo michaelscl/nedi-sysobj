@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	N2048
-Typoid	none
-Sysdes	
+TypOID	none
+DesOID	
 OS	DCPN
 Icon	w2an
 Size	1

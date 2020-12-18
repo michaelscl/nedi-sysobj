@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	3Com-S5500-28-EI
-Typoid	
-Sysdes	
+Type	S5500-28-EI
+TypOID	
+DesOID	
 OS	Comwar3
 Icon	w3gn
 Size	1

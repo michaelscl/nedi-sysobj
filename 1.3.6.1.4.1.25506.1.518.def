@@ -2,14 +2,14 @@
  
 # General
 SNMPv	2HC
-Type	HP5120-48G-EI
-Typoid	
-Sysdes	
+Type	5120-48G-EI
+TypOID	
+DesOID	
 OS	Comware
 Icon	w3gd
 Size	1
 Bridge	qbriX
-ArpND	phy
+ArpND	
 Dispro	LLDPXN
 Serial	1.3.6.1.2.1.47.1.1.1.1.11.2
 Bimage	1.3.6.1.2.1.47.1.1.1.1.10.2

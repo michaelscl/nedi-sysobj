@@ -2,7 +2,8 @@
 
 # General
 SNMPv	2
-Type	BlueCoat SG 300
+Type	 SG 300
+TypOID
 OS	other
 Icon	cspn
 Size	10

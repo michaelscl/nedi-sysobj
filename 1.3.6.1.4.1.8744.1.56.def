@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	HPMSM720
-Typoid	
-Sysdes	
+Type	MSM720
+TypOID	
+DesOID	
 OS	MSM
 Icon	wcgn
 Size	0

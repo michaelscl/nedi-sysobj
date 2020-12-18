@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	HPF1000-E
-Typoid	
-Sysdes	
+Type	F1000-E
+TypOID	
+DesOID	
 OS	Comware
 Icon	vpgn
 Size	1

@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	PowerConnect-6248
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	DPCN
 Icon	w3cd
 Size	1

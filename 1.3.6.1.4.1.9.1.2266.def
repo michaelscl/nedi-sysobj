@@ -1,0 +1,64 @@
+# Definition for 1.3.6.1.4.1.9.1.2266 created by Defed 1.0 on 4.May 2018 (admin)
+
+# Main
+SNMPv	2HC
+Type	ISE-APL
+TypOID	
+DesOID	
+OS	NXOS
+Icon	apbn
+Size	1
+Uptime	S
+Bridge	
+ArpND	
+Dispro	
+Serial	1.3.6.1.2.1.47.1.1.1.1.11.1
+Bimage	1.3.6.1.2.1.47.1.1.1.1.10.1
+VLnams	
+VLnamx	
+Group	
+Mode	
+CfgChg	
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	1.3.6.1.2.1.2.2.1.2
+IFaddr		
+IFalia	
+IFalix	
+InBcast	
+InDisc	
+OutDisc	
+IFvlan		
+IFvlix	
+IFpowr		
+IFpwix	
+IFdupl	
+IFduix	
+Halfdp	
+Fulldp	
+
+# Modules
+Modom		
+Moslot	
+Moclas	
+Movalu	
+Modesc	
+Modhw	
+Modfw	
+Modsw	
+Modser	
+Momodl	
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl	1.3.6.1.4.1.2021.11.10.0		
+Temp			
+MemCPU	1.3.6.1.4.1.2021.4.11.0		4096
+Custom			

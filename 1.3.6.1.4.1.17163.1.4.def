@@ -2,7 +2,8 @@
 
 # General
 SNMPv	2
-Type	Riverbed Steelhead Mobile Controller 8650
+Type	Steelhead Mobile Controller 8650
+TypOID
 OS	Linux
 Icon	w2rn
 Size	1

@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	HPMSM710
-Typoid	
-Sysdes	
+Type	MSM710
+TypOID	
+DesOID	
 OS	MSM
 Icon	wcgn
 Size	0

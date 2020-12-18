@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	MS510dn
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Printer
 Icon	pgan
 Size	1
@@ -20,7 +20,7 @@ FTPConf
 VLnams	
 VLnamx	
 Group	
-Mode	
+Mode	7
  
 # Interfaces
 StartX	

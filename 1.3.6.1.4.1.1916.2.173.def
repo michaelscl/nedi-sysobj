@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	X440-8p
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	XOS
 Icon	w3pp
 Size	0

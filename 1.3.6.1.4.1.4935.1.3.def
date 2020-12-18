@@ -5,6 +5,7 @@
 # General
 SNMPv	2
 Type	AP1120
+TypOID
 OS	other
 Icon	phan
 Bridge	
@@ -47,4 +48,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	1.3.6.1.4.1.4935.10.50.1.2.5.8.0
-MemIO	1.3.6.1.4.1.4935.10.50.1.2.5.9.0
+Custom	MemIO;G;Bytes	1.3.6.1.4.1.4935.10.50.1.2.5.9.0

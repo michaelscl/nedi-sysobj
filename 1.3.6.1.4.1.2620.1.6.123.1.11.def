@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	Check Point Power-1 9070
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	fwan
 Size	2

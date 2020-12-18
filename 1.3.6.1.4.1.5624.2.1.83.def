@@ -2,7 +2,8 @@
 
 # General
 SNMPv	2HC
-Type	Enterasys Chassis
+Type	Chassis
+TypOID
 OS	other
 Icon	c3pd
 Size	20

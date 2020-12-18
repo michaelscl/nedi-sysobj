@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	X440-24t-10G
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	XOS
 Icon	w3pn
 Size	1

@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	V-M200
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	wagn
 Size	0

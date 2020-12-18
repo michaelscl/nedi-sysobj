@@ -3,6 +3,7 @@
 # General
 SNMPv	1
 Type	akcp-HHMSS
+TypOID
 OS	other
 Icon	csan
 Size	10
@@ -46,4 +47,4 @@ Momodl
 CPUutl	
 Temp	1.3.6.1.4.1.3854.1.2.2.1.16.1.3.0
 MemCPU	
-MemIO	
+Custom	

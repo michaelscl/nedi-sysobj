@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	HiveAP
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Aerohive
 Icon	waan
 Size	0

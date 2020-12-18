@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	iR C1028 P
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Printer
 Icon	pcan
 Size	1
@@ -18,7 +18,7 @@ CfgWrt
 VLnams	
 VLnamx	
 Group	
-Mode	
+Mode	7
  
 # Interfaces
 StartX	

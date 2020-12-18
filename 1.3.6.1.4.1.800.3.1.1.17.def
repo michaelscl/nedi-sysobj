@@ -3,8 +3,8 @@
 # General
 SNMPv	1
 Type	Omnistack4024G
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	w2yn
 Size	1

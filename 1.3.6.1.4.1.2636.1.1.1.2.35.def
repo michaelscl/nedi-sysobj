@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	Juniper-SRX3400
-Typoid	
-Sysdes	
+Type	SRX3400
+TypOID	
+DesOID	
 OS	JunOS
 Icon	rsan
 Size	1

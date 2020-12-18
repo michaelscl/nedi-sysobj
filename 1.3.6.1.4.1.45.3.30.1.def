@@ -3,6 +3,7 @@
 # General
 SNMPv	1
 Type	350F-HD
+TypOID
 OS	Baystack
 Icon	w2on
 Size	1
@@ -46,4 +47,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-MemIO	
+Custom	

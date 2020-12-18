@@ -3,7 +3,8 @@
 # General
 SNMPv	2HC
 Type	FESX424
-Sysdes	
+TypOID
+DesOID	
 OS	Ironware
 Icon	w2rn
 Size	1

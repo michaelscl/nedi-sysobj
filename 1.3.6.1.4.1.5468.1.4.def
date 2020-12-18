@@ -3,6 +3,7 @@
 # General
 SNMPv	1
 Type	Actelis-ml624
+TypOID
 OS	other
 Icon	csan
 Size	10
@@ -47,4 +48,4 @@ Momodl
 CPUutl	
 Temp	
 MemCPU	
-MemIO	
+Custom	

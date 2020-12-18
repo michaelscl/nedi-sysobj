@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	3Com-S4500G-48
-Typoid	
-Sysdes	
+Type	S4500G-48
+TypOID	
+DesOID	
 OS	Comwar3
 Icon	w3gd
 Size	1

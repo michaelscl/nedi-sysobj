@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	checkPointVMware
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	vmbn
 Size	1

@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	DS-C9710
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	fcbn
 Size	14

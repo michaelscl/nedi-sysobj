@@ -3,8 +3,8 @@
 # Main
 SNMPv	2
 Type	HP A5120-48G
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Comware
 Icon	w3gn
 Size	1

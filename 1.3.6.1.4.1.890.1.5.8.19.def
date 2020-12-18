@@ -1,20 +1,22 @@
-# Definition for 1.3.6.1.4.1.890.1.5.8.19 created by Defgen 1.8 on 21.Aug 2014 (admin)
+# Definition for 1.3.6.1.4.1.890.1.5.8.19 created by Defgen 2.0 on 13.Jan 2016 (admin)
  
-# General
+# Main
 SNMPv	2HC
 Type	ES-2108-6
-Typoid	
-Sysdes	
-OS	other
+TypOID	
+DesOID	
+OS	ZyNOS
 Icon	w2ap
 Size	0
+Uptime	S
 Bridge	qbri
 ArpND	
 Dispro	
 Serial	1.3.6.1.4.1.890.1.5.8.19.1.10.0
-Bimage	
+Bimage	1.3.6.1.4.1.890.1.5.8.19.1.1-8
 CfgChg	
 CfgWrt	
+FTPConf	config
 VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1
 VLnamx	
 Group	
@@ -24,13 +26,13 @@ Mode
 StartX	
 EndX	
 IFname	1.3.6.1.2.1.2.2.1.2
-IFaddr	old
+IFaddr	old	
 IFalia	
 IFalix	
 InBcast	1.3.6.1.2.1.31.1.1.1.3
 InDisc	1.3.6.1.2.1.2.2.1.13
 OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1
+IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1	Q
 IFvlix	
 IFpowr		
 IFpwix	
@@ -44,11 +46,14 @@ Modesc
 Moclas	
 Movalu	
 Moslot	
+Mostat	
+Mostok	
 Modhw	
 Modsw	
 Modfw	
 Modser	
 Momodl	
+Modloc	
  
 # RRD Graphing
 CPUutl		

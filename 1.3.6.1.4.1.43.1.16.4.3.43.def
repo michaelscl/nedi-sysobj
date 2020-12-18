@@ -3,8 +3,8 @@
 # Main 
 SNMPv	2HC 
 Type	3Com Switch 4210 
-Typoid	 
-Sysdes	 
+TypOID	 
+DesOID	 
 OS	Comwar3 
 Icon	w2gn 
 Size	1 

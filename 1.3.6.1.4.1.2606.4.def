@@ -1,0 +1,65 @@
+# Definition for 1.3.6.1.4.1.2606.4 created by Defed 1.9 on 9.Nov 2018 (monitos)
+
+# Main
+SNMPv	1
+Type	CMC-TCPU2
+TypOID	
+NamOID	
+DesOID	
+OS	other
+Icon	sean
+Size	1
+Uptime	U
+Bridge	
+ArpND	
+Dispro	
+Serial	
+Bimage	
+VLnams	
+VLnamx	
+Group	
+Mode	
+CfgChg	
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	
+IFaddr	old	
+IFalia	
+IFalix	
+InBcast	
+InDisc	
+OutDisc	
+IFvlan		
+IFvlix	
+IFpowr		
+IFpwix	
+IFdupl	
+IFduix	
+Halfdp	
+Fulldp	
+
+# Modules
+Modom		
+Moslot	
+Moclas	
+Movalu	
+Modesc	
+Modhw	
+Modfw	
+Modsw	
+Modser	
+Momodl	
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl	1.3.6.1.4.1.2021.10.1.5.3		
+Temp			
+MemCPU			
+Custom			

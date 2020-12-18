@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	LM-2200
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	lban
 Size	1

@@ -3,10 +3,10 @@
 # General
 SNMPv	2HC
 Type	Fortigate800
-Typoid	
-Sysdes	1.3.6.1.2.1.47.1.2.1.1.2.1
+TypOID	
+DesOID	1.3.6.1.2.1.47.1.2.1.1.2.1
 OS	other
-Icon	fwgn
+Icon	fwan
 Size	1
 Bridge	
 ArpND	

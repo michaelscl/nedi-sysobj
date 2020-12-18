@@ -8,9 +8,9 @@ SNMPv	2HC
 
 Type	M4100-26G-POE
 
-Typoid	
+TypOID	
 
-Sysdes	
+DesOID	
 
 OS	Netgear
 

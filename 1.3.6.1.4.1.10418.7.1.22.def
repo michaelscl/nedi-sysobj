@@ -4,8 +4,8 @@
 # General
 SNMPv	2HC
 Type	DSR2035
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	atan
 Size	1

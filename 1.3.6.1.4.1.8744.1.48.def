@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2HC
-Type	HPMSM760
-Typoid	
-Sysdes	
+Type	MSM760
+TypOID	
+DesOID	
 OS	MSM
 Icon	wcgn
 Size	1

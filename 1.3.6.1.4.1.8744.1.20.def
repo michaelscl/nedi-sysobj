@@ -2,7 +2,8 @@
 
 # General
 SNMPv	2HC
-Type	HPMSM310
+Type	MSM310
+TypOID
 OS	MSM
 Icon	wagn
 Size	0

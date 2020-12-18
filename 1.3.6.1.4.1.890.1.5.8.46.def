@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	XGS-4728F
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	ZyNOS
 Icon	w3an
 Size	1

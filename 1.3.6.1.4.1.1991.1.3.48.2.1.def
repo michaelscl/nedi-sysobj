@@ -2,9 +2,9 @@
 
 # General
 SNMPv	1
-Type	Brocade-FCX624
-Typoid	
-Sysdes	
+Type	FCX624
+TypOID	
+DesOID	
 OS	Ironware
 Icon	w3an
 Size	1

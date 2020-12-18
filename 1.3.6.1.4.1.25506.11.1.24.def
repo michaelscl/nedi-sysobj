@@ -4,9 +4,9 @@
  
 # General
 SNMPv	2HC
-Type	HP5500-24G-EI
-Typoid	
-Sysdes	
+Type	5500-24G-EI
+TypOID	
+DesOID	
 OS	Comware
 Icon	w3gd
 Size	1

@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	MaipuFW
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	fwan
 Size	1

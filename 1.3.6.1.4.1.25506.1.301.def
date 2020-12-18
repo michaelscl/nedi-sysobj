@@ -2,9 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	HP U200-S
-Typoid	
-Sysdes	
+Type	 U200-S
+TypOID	
+DesOID	
 OS	Comware
 Icon	vpgn
 Size	1

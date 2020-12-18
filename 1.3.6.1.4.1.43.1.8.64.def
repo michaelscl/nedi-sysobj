@@ -2,8 +2,9 @@
 
 # General
 SNMPv	2HC
-Type	3Com-Officeconnect
-Sysdes	
+Type	Officeconnect
+TypOID
+DesOID	
 OS	other
 Icon	w2gp
 Size	1

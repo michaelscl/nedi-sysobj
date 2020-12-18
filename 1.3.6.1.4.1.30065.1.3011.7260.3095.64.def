@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	DCS-7260QX-64
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	ArEOS
 Icon	w3ad
 Size	2
@@ -57,6 +57,6 @@ Mostok	1
  
 # RRD Graphing
 CPUutl	1.3.6.1.2.1.25.3.3.1.2.1		50
-Temp	1.3.6.1.2.1.99.1.1.1.4.100006012	.1	60
+Temp	1.3.6.1.2.1.99.1.1.1.4.100006012	.1	
 MemCPU	1.3.6.1.2.1.25.2.3.1.6.1	1.3.6.1.2.1.25.2.3.1.5.1	25
 Custom			

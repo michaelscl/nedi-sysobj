@@ -3,8 +3,8 @@
 # General
 SNMPv	2HC
 Type	ERS5530-24TFD
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	Nortel
 Icon	w3on
 Size	1

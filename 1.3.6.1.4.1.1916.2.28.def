@@ -3,8 +3,8 @@
 # Main
 SNMPv	2HC
 Type	Summit48si
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	XOS
 Icon	w3pd
 Size	1

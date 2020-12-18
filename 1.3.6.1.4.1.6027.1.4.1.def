@@ -3,8 +3,8 @@
 # Main
 SNMPv	2MC
 Type	MXL-1040Gb
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	DPCN
 Icon	w2cd
 Size	10

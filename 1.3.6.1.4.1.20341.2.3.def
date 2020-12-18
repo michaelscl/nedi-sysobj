@@ -3,8 +3,8 @@
 # General
 SNMPv	2
 Type	LifeSize Video System
-Typoid	
-Sysdes	
+TypOID	
+DesOID	
 OS	other
 Icon	ican
 Size	1

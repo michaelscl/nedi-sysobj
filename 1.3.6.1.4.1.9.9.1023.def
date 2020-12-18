@@ -1,10 +1,10 @@
 # Definition for 1.3.6.1.4.1.9.9.1023 created by Defgen 2.0 on 30.Aug 2015 (admin)
- 
+
 # Main
 SNMPv	2HC
 Type	WS-C3750V2-24PS-S
-Typoid	
-Sysdes	
+TypOID
+DesOID
 OS	IOS
 Icon	w3bn
 Size	1
@@ -14,48 +14,49 @@ ArpND	oldcie
 Dispro	CDP
 Serial	1.3.6.1.2.1.47.1.1.1.1.11.1001
 Bimage	1.3.6.1.4.1.9.2.1.73.0
-CfgChg	
-CfgWrt	
+CfgChg
+CfgWrt
 VLnams	1.3.6.1.4.1.9.9.46.1.3.1.1.4.1
-VLnamx	
+VLnamx
 Group	1.3.6.1.4.1.9.9.46.1.2.1.1.2.1
 Mode	1.3.6.1.4.1.9.9.46.1.2.1.1.3.1
- 
+Fanstat	1.3.6.1.4.1.9.9.13.1.4.1.3	1|5
+
 # Interfaces
-StartX	
-EndX	
+StartX
+EndX
 IFname	1.3.6.1.2.1.31.1.1.1.1
-IFaddr	oldcie	
+IFaddr	oldcie
 IFalia	1.3.6.1.2.1.31.1.1.1.18
-IFalix	
-InBcast	
+IFalix
+InBcast
 InDisc	1.3.6.1.2.1.2.2.1.13
-OutDisc	
+OutDisc
 IFvlan	1.3.6.1.4.1.9.9.68.1.2.2.1.2
-IFvlix	
+IFvlix
 IFpowr	1.3.6.1.4.1.9.9.402.1.2.1.9	P
 IFpwix	1.3.6.1.4.1.9.5.1.4.1.1.11
 IFdupl	1.3.6.1.2.1.10.7.2.1.19
-IFduix	
+IFduix
 Halfdp	2
 Fulldp	3
- 
+
 # Modules
 Modesc	1.3.6.1.2.1.47.1.1.1.1.2
 Moclas	1.3.6.1.2.1.47.1.1.1.1.5
 Movalu	3|6|10
 Moslot	1.3.6.1.2.1.47.1.1.1.1.7
-Mostat	
-Mostok	
+Mostat
+Mostok
 Modhw	1.3.6.1.2.1.47.1.1.1.1.8
-Modsw	1.3.6.1.2.1.47.1.1.1.1.10
 Modfw	1.3.6.1.2.1.47.1.1.1.1.9
+Modsw	1.3.6.1.2.1.47.1.1.1.1.10
 Modser	1.3.6.1.2.1.47.1.1.1.1.11
 Momodl	1.3.6.1.2.1.47.1.1.1.1.13
-Modloc	
- 
+Modloc
+
 # RRD Graphing
-CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1	
-Temp	1.3.6.1.4.1.9.9.13.1.3.1.3.1006	
-MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1	
-Custom	MemIO;G;Bytes	 1.3.6.1.4.1.9.9.48.1.1.1.6.2
+CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1
+Temp	1.3.6.1.4.1.9.9.13.1.3.1.3.1006
+MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1		1024
+Custom	MemIO;G;Bytes	 1.3.6.1.4.1.9.9.48.1.1.1.6.2	-1024000

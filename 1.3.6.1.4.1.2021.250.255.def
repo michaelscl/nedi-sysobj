@@ -2,9 +2,9 @@
  
 # General
 SNMPv	2
-Type	UCD-unknown
-Typoid	
-Sysdes	
+Type	UCD-Unknown
+TypOID	
+DesOID	
 OS	other
 Icon	vpan
 Size	1
