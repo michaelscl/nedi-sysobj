@@ -1,0 +1,57 @@
+# Definition for 1.3.6.1.4.1.2011.2.23.222 created by Defgen 2.0 on 27.Jun 2016 (root)
+ 
+# Main
+SNMPv	2HC
+Type	
+Typoid	
+Sysdes	
+OS	HuaweiVRP
+Icon	w2an
+Size	1
+Bridge	normalX
+ArpND	oldphy
+Dispro	LLDPXN
+Serial	1.3.6.1.4.1.2011.5.25.31.1.1.2.1.1.67108873
+Bimage	1.3.6.1.4.1.2011.5.25.19.1.4.2.1.2.1
+CfgChg	
+CfgWrt	
+VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1
+VLnamx	
+Group	
+Mode	
+ 
+# Interfaces
+StartX	
+EndX	
+IFname	1.3.6.1.2.1.31.1.1.1.1
+IFaddr		
+IFalia	1.3.6.1.2.1.31.1.1.1.18
+IFalix	
+InBcast	1.3.6.1.2.1.31.1.1.1.3
+InDisc	1.3.6.1.2.1.2.2.1.13
+OutDisc	1.3.6.1.2.1.2.2.1.19
+IFvlan	
+IFvlix	
+IFpowr	N	
+IFpwix	
+IFdupl	1.3.6.1.2.1.10.7.2.1.19
+IFduix	
+Halfdp	
+Fulldp	
+ 
+# Modules
+Modesc	1.3.6.1.2.1.47.1.1.1.1.2
+Moclas	1.3.6.1.2.1.47.1.1.1.1.5
+Movalu	
+Moslot	1.3.6.1.2.1.47.1.1.1.1.7
+Modhw	1.3.6.1.2.1.47.1.1.1.1.8
+Modsw	1.3.6.1.2.1.47.1.1.1.1.13
+Modfw	1.3.6.1.2.1.47.1.1.1.1.9
+Modser	1.3.6.1.2.1.47.1.1.1.1.11
+Momodl	1.3.6.1.2.1.47.1.1.1.1.10
+ 
+# RRD Graphing
+CPUutl	.1.3.6.1.4.1.2011.5.25.31.1.1.1.1.5.67108873	
+Temp	.1.3.6.1.4.1.2011.5.25.31.1.1.1.1.11.67108873	
+MemCPU	.1.3.6.1.4.1.2011.5.25.31.1.1.1.1.8.67108873	
+Custom		

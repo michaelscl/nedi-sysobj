@@ -1,0 +1,60 @@
+# Definition for 1.3.6.1.4.1.5624.2.1.119 created by Defgen 2.0 on 28.Sep 2016 (crott) 
+  
+# Main 
+SNMPv	2HC 
+Type	D2G124-12 
+Typoid	 
+Sysdes	 
+OS	EOSB2 
+Icon	w2pp 
+Size	1 
+Bridge	qbri 
+ArpND	 
+Dispro	LLDP 
+Serial	1.3.6.1.2.1.47.1.1.1.1.11.9 
+Bimage	1.3.6.1.2.1.47.1.1.1.1.10.9 
+CfgChg	 
+CfgWrt	 
+VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1 
+VLnamx	 
+Group	 
+Mode	 
+  
+# Interfaces 
+StartX	 
+EndX	 
+IFname	1.3.6.1.2.1.31.1.1.1.1 
+IFaddr	adr	 
+IFalia	1.3.6.1.2.1.31.1.1.1.18 
+IFalix	 
+InBcast	1.3.6.1.2.1.31.1.1.1.9 
+InDisc	1.3.6.1.2.1.2.2.1.13 
+OutDisc	1.3.6.1.2.1.2.2.1.19 
+IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1 
+IFvlix	 
+IFpowr		 
+IFpwix	 
+IFdupl	1.3.6.1.2.1.26.2.1.1.3 
+IFduix	 
+Halfdp	 
+Fulldp	 
+  
+# Modules 
+Modesc	 
+Moclas	 
+Movalu	 
+Moslot	 
+Mostat	 
+Mostok	 
+Modhw	 
+Modsw	 
+Modfw	 
+Modser	 
+Momodl	 
+Modloc	 
+  
+# RRD Graphing 
+CPUutl	1.3.6.1.4.1.5624.1.2.49.1.1.1.1.4.10011001.1   	0.1 
+Temp		 
+MemCPU		 
+Custom		
