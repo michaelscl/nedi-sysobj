@@ -1,13 +1,14 @@
-# Definition for 1.3.6.1.4.1.9.1.324 created by Defgen 2.0 on 26.May 2015 (datron)
+# Definition for 1.3.6.1.4.1.9.1.324 created by Defgen 2.0 on 22.Dec 2020 (admin)
  
 # Main
 SNMPv	2HC
-Type	WS-C2950-24
-Typoid	
+Type	
+Typoid	1.3.6.1.2.1.47.1.1.1.1.13.1
 Sysdes	
 OS	IOS
 Icon	w2bn
 Size	1
+Uptime	U
 Bridge	VLX
 ArpND	oldphy
 Dispro	CDP
@@ -15,6 +16,7 @@ Serial	1.3.6.1.2.1.47.1.1.1.1.11.1
 Bimage	1.3.6.1.4.1.9.2.1.73.0
 CfgChg	1.3.6.1.4.1.9.9.43.1.1.1.0
 CfgWrt	1.3.6.1.4.1.9.9.43.1.1.3.0
+FTPConf	
 VLnams	1.3.6.1.4.1.9.9.46.1.3.1.1.4.1
 VLnamx	
 Group	1.3.6.1.4.1.9.9.46.1.2.1.1.2.1
@@ -30,7 +32,7 @@ IFalix
 InBcast	1.3.6.1.2.1.31.1.1.1.3
 InDisc	1.3.6.1.2.1.2.2.1.13
 OutDisc	1.3.6.1.2.1.2.2.1.19
-IFvlan	1.3.6.1.4.1.9.9.68.1.2.2.1.2
+IFvlan	1.3.6.1.4.1.9.9.68.1.2.2.1.2	
 IFvlix	
 IFpowr		
 IFpwix	
@@ -49,9 +51,12 @@ Modsw	1.3.6.1.2.1.47.1.1.1.1.10
 Modfw	1.3.6.1.2.1.47.1.1.1.1.9
 Modser	1.3.6.1.2.1.47.1.1.1.1.11
 Momodl	1.3.6.1.2.1.47.1.1.1.1.13
+Modloc	
+Mostat	
+Mostok	
  
 # RRD Graphing
-CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1	
-Temp		
-MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1	
-Custom	MemIO;G;Bytes	1.3.6.1.4.1.9.9.48.1.1.1.6.2
+CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.8.1		
+Temp			
+MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1		
+Custom	MemIO;G;Bytes	1.3.6.1.4.1.9.9.48.1.1.1.6.2	

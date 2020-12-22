@@ -1,8 +1,8 @@
-# Definition for 1.3.6.1.4.1.9.6.1.82.24.2 created by Defgen 2.0 on 25.Jan 2019 (datron)
+# Definition for 1.3.6.1.4.1.9.6.1.82.24.2 created by Defgen 2.0 on 22.Dec 2020 (admin)
  
 # Main
 SNMPv	2HC
-Type	SF300-24PP
+Type	
 Typoid	1.3.6.1.4.1.9.6.1.101.53.14.1.11.1
 Sysdes	
 OS	CSBS
