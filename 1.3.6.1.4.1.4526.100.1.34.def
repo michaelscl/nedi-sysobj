@@ -1,0 +1,65 @@
+# Definition for 1.3.6.1.4.1.4526.100.1.34 created by Defed 1.9 on 10.Dec 2019 (aguidet)
+
+# Main
+SNMPv	2
+Type	XSM4324CS
+TypOID	1.3.6.1.4.1.4526.10.1.1.1.3.0
+NamOID	
+DesOID	1.3.6.1.4.1.4526.10.1.1.1.1.0
+OS	Netgear
+Icon	s2m
+Size	1
+Uptime	U
+Bridge	normal
+ArpND	
+Dispro	LLDP
+Serial	1.3.6.1.4.1.4526.10.1.1.1.4.0
+Bimage	1.3.6.1.4.1.4526.10.1.1.1.13.0
+VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1
+VLnamx	
+Group	
+Mode	
+CfgChg	
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	1.3.6.1.2.1.31.1.1.1.1
+IFaddr		
+IFalia	1.3.6.1.2.1.31.1.1.1.18
+IFalix	
+InBcast	1.3.6.1.2.1.31.1.1.1.9
+InDisc	1.3.6.1.2.1.2.2.1.13
+OutDisc	1.3.6.1.2.1.2.2.1.19
+IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1	
+IFvlix	
+IFpowr		
+IFpwix	
+IFdupl	
+IFduix	1.3.6.1.2.1.10.7.2.1.1
+Halfdp	2
+Fulldp	3
+
+# Modules
+Modom		
+Moslot	
+Moclas	
+Movalu	
+Modesc	
+Modhw	
+Modfw	
+Modsw	
+Modser	
+Momodl	
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl			
+Temp			
+MemCPU			
+Custom			

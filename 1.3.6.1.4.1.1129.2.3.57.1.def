@@ -1,0 +1,66 @@
+# Definition for 1.3.6.1.4.1.1129.2.3.57.1 created by Defed 1.9 on 25.Nov 2019 (admin)
+
+# Main
+SNMPv	2
+Type	e-STUDIO2000AC
+TypOID	
+NamOID	
+DesOID	
+OS	Printer
+Icon	prm
+Size	1
+Uptime	U
+Bridge	
+ArpND	
+Dispro	
+Serial	
+Bimage	
+VLnams		
+VLnamx	
+Group	
+Mode	
+CfgChg	
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	
+IFaddr		
+IFalia	
+IFalix	
+InBcast	
+InDisc	
+OutDisc	
+IFvlan		
+IFvlix	
+IFpowr		
+IFpwix	
+IFpalc	
+IFdupl	
+IFduix	
+Halfdp	
+Fulldp	
+
+# Modules
+Modom		
+Moslot	1.3.6.1.2.1.43.11.1.1.5.1
+Moclas	
+Movalu	30
+Modesc	1.3.6.1.2.1.43.11.1.1.6.1
+Modhw	1.3.6.1.2.1.43.11.1.1.9.1
+Modfw	1.3.6.1.2.1.43.11.1.1.8.1
+Modsw	
+Modser	
+Momodl	
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl			
+Temp			
+MemCPU			
+Custom			

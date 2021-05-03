@@ -1,0 +1,65 @@
+# Definition for 1.3.6.1.4.1.2272.206 created by Defed 1.9 on 3.May 2019 (admin)
+
+# Main
+SNMPv	2HC
+Type	VSP-4450GSX-PWR+
+TypOID	
+NamOID	
+DesOID	
+OS	Nortel
+Icon	smm
+Size	10
+Uptime	U
+Bridge	normal
+ArpND	old
+Dispro	
+Serial	1.3.6.1.4.1.2272.1.4.2.0
+Bimage	1.3.6.1.4.1.2272.1.1.7.0
+VLnams	1.3.6.1.4.1.2272.1.3.2.1.2
+VLnamx	
+Group	
+Mode	
+CfgChg	1.3.6.1.4.1.2272.1.1.10.0
+CfgWrt	1.3.6.1.4.1.2272.1.1.35.0
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	1.3.6.1.2.1.31.1.1.1.1
+IFaddr	old	
+IFalia	
+IFalix	
+InBcast	1.3.6.1.2.1.2.2.1.12
+InDisc	1.3.6.1.2.1.2.2.1.13
+OutDisc	1.3.6.1.2.1.2.2.1.19
+IFvlan	1.3.6.1.4.1.2272.1.3.3.1.7	
+IFvlix	
+IFpowr		
+IFpwix	
+IFdupl	1.3.6.1.4.1.2272.1.4.10.1.1.13
+IFduix	
+Halfdp	1
+Fulldp	2
+
+# Modules
+Modom		
+Moslot	1.3.6.1.4.1.2272.1.4.9.1.1.1
+Moclas	1.3.6.1.4.1.2272.1.4.9.1.1.7
+Movalu	1
+Modesc	1.3.6.1.4.1.2272.1.4.9.1.1.2
+Modhw	1.3.6.1.4.1.2272.1.4.9.1.1.4
+Modfw	
+Modsw	
+Modser	1.3.6.1.4.1.2272.1.4.9.1.1.3
+Momodl	1.3.6.1.4.1.2272.1.4.9.1.1.8
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl	1.3.6.1.4.1.2272.1.1.20.0		
+Temp	1.3.6.1.4.1.2272.1.100.1.2.0		
+MemCPU	1.3.6.1.4.1.2272.1.1.48.0		
+Custom			

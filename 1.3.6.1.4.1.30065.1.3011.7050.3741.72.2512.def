@@ -1,0 +1,66 @@
+# Definition for 1.3.6.1.4.1.30065.1.3011.7050.3741.72.2512 created by Defed 1.9 on 12.Nov 2019 (admin)
+
+# Main
+SNMPv	2HC
+Type	DCS-7050SX-72Q
+TypOID	
+NamOID	
+DesOID	
+OS	ArEOS
+Icon	s2m
+Size	4
+Uptime	U
+Bridge	qbriX
+ArpND	oldphy
+Dispro	LLDP|LLDPXN
+Serial	
+Bimage	
+VLnams	1.3.6.1.2.1.17.7.1.4.3.1.1	cli
+VLnamx	
+Group	
+Mode	
+CfgChg	1.3.6.1.4.1.30065.3.9.1.1.1.0
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	1.3.6.1.2.1.31.1.1.1.1
+IFaddr	oldadr	
+IFalia	1.3.6.1.2.1.2.2.1.2
+IFalix	
+InBcast	1.3.6.1.2.1.31.1.1.1.3
+InDisc	
+OutDisc	1.3.6.1.2.1.2.2.1.19
+IFvlan	1.3.6.1.2.1.17.7.1.4.5.1.1	
+IFvlix	1.3.6.1.2.1.17.1.4.1.2
+IFpowr		
+IFpwix	
+IFpalc	
+IFdupl	
+IFduix	
+Halfdp	
+Fulldp	
+
+# Modules
+Modom	A	u
+Moslot	1.3.6.1.2.1.47.1.1.1.1.7
+Moclas	1.3.6.1.2.1.47.1.1.1.1.5
+Movalu	6|9|10
+Modesc	1.3.6.1.2.1.47.1.1.1.1.2
+Modhw	1.3.6.1.2.1.47.1.1.1.1.8
+Modfw	1.3.6.1.2.1.47.1.1.1.1.9
+Modsw	1.3.6.1.2.1.47.1.1.1.1.10
+Modser	1.3.6.1.2.1.47.1.1.1.1.11
+Momodl	1.3.6.1.2.1.47.1.1.1.1.13
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl	1.3.6.1.2.1.25.3.3.1.2.1		
+Temp	1.3.6.1.2.1.99.1.1.1.4.100006014	.1	
+MemCPU	1.3.6.1.2.1.25.2.3.1.6.3	1024	4096
+Custom			
