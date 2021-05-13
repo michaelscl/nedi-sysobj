@@ -1,13 +1,13 @@
 # Some C3560E defs by Andre Beck
 # Shameless ripoff from latest 1.3.6.1.4.1.9.1.615.def
-# Fixed temperature sensor, Type and Icon only
+# Fixed temperature sensor, Type and Icon onl
 # Tested against IOS 12.2(44)SE1
 
 # General
 SNMPv	2HC
 Type	WS-C3560E-48TD
 OS	IOS
-Icon	w3bd
+Icon	w3b
 Size	1
 Bridge	VLX
 ArpND	old

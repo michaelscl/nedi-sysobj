@@ -6,7 +6,7 @@ Type	NTserver
 Typoid	
 Sysdes	
 OS	other
-Icon	hvms
+Icon	hvm
 Size	1
 Bridge	
 ArpND	

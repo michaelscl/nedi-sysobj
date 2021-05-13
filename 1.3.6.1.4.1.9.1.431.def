@@ -6,7 +6,7 @@
 SNMPv	2HC
 Type	WS-C3550-12G
 OS	IOS
-Icon	w3bp
+Icon	w3b
 Size	1
 Bridge	VLX
 ArpND	old

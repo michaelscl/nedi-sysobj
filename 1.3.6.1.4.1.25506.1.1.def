@@ -6,7 +6,7 @@ Type	HP5500G-24G-EI
 Typoid	
 Sysdes		
 OS	Comware
-Icon	w3gn
+Icon	w3g
 Size	1
 Bridge	qbriX
 ArpND	oldip6

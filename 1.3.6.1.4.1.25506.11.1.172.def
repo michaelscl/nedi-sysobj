@@ -6,7 +6,7 @@ Type	HP 5700-40XG
 Typoid	
 Sysdes	
 OS	Comware
-Icon	w3gd
+Icon	w3g
 Size	1
 Bridge	qbri
 ArpND	phy

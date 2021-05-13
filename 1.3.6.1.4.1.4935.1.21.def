@@ -6,7 +6,7 @@ Type
 TypOID	1.3.6.1.4.1.4935.1.1000.1.15.0
 DesOID
 OS	other
-Icon	phgn
+Icon	phg
 Size	1
 Bridge
 ArpND	old

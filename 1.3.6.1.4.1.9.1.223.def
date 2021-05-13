@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	cisco7204VXR
 OS	IOS
-Icon	rmbn
+Icon	rmb
 Size	3
 Bridge	
 ArpND	old

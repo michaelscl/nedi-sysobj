@@ -5,7 +5,7 @@
 SNMPv	2HC
 Type	ciscoOS-CIGESM-18TT-EBU
 OS	IOS
-Icon	w2bn
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	

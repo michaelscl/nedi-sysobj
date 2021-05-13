@@ -6,7 +6,7 @@ Type	HP3800S
 Typoid	
 Sysdes	
 OS	ProCurve
-Icon	w3gd
+Icon	w3g
 Size	1
 Bridge	qbri
 ArpND	old

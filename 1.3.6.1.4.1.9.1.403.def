@@ -6,7 +6,7 @@ Type	cisco7401ASR
 Typoid	
 Sysdes	
 OS	IOS-rtr
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	
 ArpND	old

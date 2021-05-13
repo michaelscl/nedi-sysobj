@@ -6,7 +6,7 @@ Type	3Com-4800G-PWR48
 Typoid	
 Sysdes	
 OS	Comware
-Icon	w3gd
+Icon	w3g
 Size	1
 Bridge	qbriX
 ArpND	old

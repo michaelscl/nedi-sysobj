@@ -6,7 +6,7 @@
 SNMPv	2HC
 Type	CBS3020-HPQ
 OS	IOS
-Icon	w3bn
+Icon	w3b
 Size	1
 Bridge	VLX
 ArpND	old

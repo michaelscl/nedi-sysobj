@@ -6,7 +6,7 @@ Type	cisco2901
 Typoid	
 Sysdes	1.3.6.1.4.1.9.3.6.5.0
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	normal
 ArpND	old

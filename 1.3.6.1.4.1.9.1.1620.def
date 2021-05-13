@@ -6,7 +6,7 @@ Type	cisco888EA
 TypOID	1.3.6.1.2.1.47.1.1.1.1.13.1
 DesOID
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	0
 TempAlert
 Bridge	normal

@@ -6,7 +6,7 @@ Type	ES-2108PWR
 TypOID
 DesOID
 OS	ZyNOS
-Icon	w2an
+Icon	w2a
 Size	1
 Bridge	qbriX
 ArpND	old

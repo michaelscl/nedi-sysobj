@@ -6,7 +6,7 @@ Type	SecPath F100-C-G
 Typoid	
 Sysdes	
 OS	other
-Icon	fwgn
+Icon	fwg
 Size	1
 Bridge	qbri
 ArpND	old

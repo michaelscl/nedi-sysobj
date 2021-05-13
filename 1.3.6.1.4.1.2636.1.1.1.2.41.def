@@ -6,7 +6,7 @@ Type	Juniper SRX100
 Typoid	
 Sysdes	
 OS	JunOS
-Icon	rsan
+Icon	rsa
 Size	1
 Bridge	normal
 ArpND	oldip6

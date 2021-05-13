@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	Juniper-4350-JB
 OS	JunOS
-Icon	rman
+Icon	rma
 Size	4
 Bridge	normal
 ArpND	old

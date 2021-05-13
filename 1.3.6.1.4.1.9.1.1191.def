@@ -6,7 +6,7 @@ Type	Cisco 1900
 Typoid	
 Sysdes	
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	VLX
 ArpND	phy

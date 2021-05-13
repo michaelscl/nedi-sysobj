@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	WS-C3548-XL-EN
 OS	IOS-old
-Icon	w2bd
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	

@@ -4,7 +4,7 @@
 SNMPv	1
 Type	cisco2514
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	
 ArpND	old

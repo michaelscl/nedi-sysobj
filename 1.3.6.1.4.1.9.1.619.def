@@ -5,7 +5,7 @@
 SNMPv	2HC
 Type	cisco2801
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	VLX
 ArpND	old

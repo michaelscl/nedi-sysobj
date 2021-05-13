@@ -6,7 +6,7 @@ Type	cisco2911
 Typoid	
 Sysdes	
 OS	IOS-rtr
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	
 ArpND	phy

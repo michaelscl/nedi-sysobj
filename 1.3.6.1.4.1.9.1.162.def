@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	ciscoAS5300
 OS	IOS
-Icon	csbn
+Icon	csb
 Size	10
 Bridge	
 ArpND	old

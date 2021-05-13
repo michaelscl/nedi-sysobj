@@ -6,7 +6,7 @@ Type	HPVC-FC
 Typoid	
 Sysdes	
 OS	other
-Icon	fcgn
+Icon	fcg
 Size	1
 Bridge	
 ArpND	old

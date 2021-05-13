@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	ciscoWSX5302
 OS	IOS
-Icon	c2bp
+Icon	c2b
 Size	4
 Bridge	VLX
 ArpND	

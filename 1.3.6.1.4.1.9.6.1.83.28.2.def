@@ -6,7 +6,7 @@ Type	SG300-28PP
 TypOID	
 DesOID	1.3.6.1.4.1.9.6.1.101.53.14.1.11.1
 OS	CSBS
-Icon	w2bn
+Icon	w2b
 Size	1
 TempAlert	
 Bridge	normal

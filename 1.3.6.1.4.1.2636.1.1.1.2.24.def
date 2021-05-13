@@ -6,7 +6,7 @@ Type	Juniper-2350-JH
 Typoid	
 Sysdes	
 OS	JunOS
-Icon	rsan
+Icon	rsa
 Size	1
 Bridge	normal
 ArpND	old

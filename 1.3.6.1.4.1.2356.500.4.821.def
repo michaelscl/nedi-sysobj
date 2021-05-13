@@ -7,7 +7,7 @@
 SNMPv	1
 Type	Lancom821-AnnexB
 OS	LCOS
-Icon	rsan
+Icon	rsa
 Size	1
 Bridge	
 ArpND	old

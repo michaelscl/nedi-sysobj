@@ -5,7 +5,7 @@ SNMPv	2
 Type	XSR-3150
 Sysdes	
 OS	EOS
-Icon	rman
+Icon	rma
 Size	4
 Bridge	
 ArpND	old

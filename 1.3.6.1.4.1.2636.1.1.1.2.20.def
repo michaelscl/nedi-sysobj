@@ -6,7 +6,7 @@ Type	Juniper-6350-JB
 Typoid	
 Sysdes	
 OS	JunOS
-Icon	rman
+Icon	rma
 Size	4
 Bridge	normal
 ArpND	old

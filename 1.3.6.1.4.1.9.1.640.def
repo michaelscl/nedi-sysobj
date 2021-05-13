@@ -6,7 +6,7 @@ Type	cisco1803
 Typoid	
 Sysdes	
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	VLX
 ArpND	oldcie

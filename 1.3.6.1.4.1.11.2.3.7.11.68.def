@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	HP2900-48G
 OS	ProCurve
-Icon	w3gd
+Icon	w3g
 Size	1
 Bridge	normal
 ArpND	old

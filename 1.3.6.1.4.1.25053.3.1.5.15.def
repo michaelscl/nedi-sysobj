@@ -6,7 +6,7 @@ Type	ZD1200
 Typoid	
 Sysdes	
 OS	ZDOS
-Icon	wcan
+Icon	wca
 Size	1
 Bridge	ZD
 ArpND	

@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	Enterasys A-Series
 OS	other
-Icon	c3pd
+Icon	c3p
 Size	20
 Bridge	normal
 ArpND	old

@@ -4,7 +4,7 @@
 SNMPv	2
 Type	cisco870
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	
 ArpND	old

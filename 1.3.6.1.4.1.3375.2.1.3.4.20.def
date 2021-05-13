@@ -4,7 +4,7 @@
 SNMPv	2
 Type	F5 BigIP 1600
 OS	other
-Icon	csrn
+Icon	csr
 Size	10
 Bridge	
 ArpND	old

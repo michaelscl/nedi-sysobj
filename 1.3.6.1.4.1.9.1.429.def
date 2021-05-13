@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	WS-C2950G-48-EI
 OS	IOS
-Icon	w2bd
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	

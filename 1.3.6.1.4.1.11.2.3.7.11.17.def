@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	HP5308xl
 OS	ProCurve
-Icon	c3gd
+Icon	c3g
 Size	20
 Bridge	normal
 ArpND	old

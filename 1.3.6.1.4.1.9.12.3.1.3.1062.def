@@ -6,7 +6,7 @@ Type	UCS-FI-6248UP
 Typoid	
 Sysdes	
 OS	NXOS
-Icon	bsbn
+Icon	bsb
 Size	1
 Bridge	VLX
 ArpND	

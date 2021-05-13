@@ -6,7 +6,7 @@ Type	WS-C3560-12PC-S
 Typoid	
 Sysdes	
 OS	IOS
-Icon	w3bp
+Icon	w3b
 Size	0
 Bridge	VLX
 ArpND	oldphy

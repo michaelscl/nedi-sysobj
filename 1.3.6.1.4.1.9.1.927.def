@@ -6,7 +6,7 @@ Type	WS-C2960-48TC-S
 Typoid	
 Sysdes	
 OS	IOS
-Icon	w2bn
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	old

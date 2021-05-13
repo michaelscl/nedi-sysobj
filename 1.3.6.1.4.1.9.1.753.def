@@ -7,7 +7,7 @@ Type	ASA5550
 Typoid	
 Sysdes	
 OS	IOS-asa
-Icon	fwbn
+Icon	fwb
 Size	1
 Bridge	
 ArpND	old

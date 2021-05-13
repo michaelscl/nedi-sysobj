@@ -8,7 +8,7 @@
 SNMPv	2c
 Type	FI400Router
 OS	Ironware
-Icon	c3rp
+Icon	c3r
 Size	4
 Bridge	normal
 ArpND	old

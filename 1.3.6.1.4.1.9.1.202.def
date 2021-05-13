@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	catalyst8540msr
 OS	IOS
-Icon	c3bd
+Icon	c3b
 Size	20
 Bridge	
 ArpND	old

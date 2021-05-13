@@ -6,7 +6,7 @@ Type	HP3500yl-24G-PoE
 Typoid	
 Sysdes	
 OS	ProCurve
-Icon	w3gn
+Icon	w3g
 Size	1
 Bridge	normal
 ArpND	phy

@@ -6,7 +6,7 @@ Type	HPE 5130-24G
 Typoid	
 Sysdes	
 OS	Comware
-Icon	w3gd
+Icon	w3g
 Size	1
 Bridge	qbri
 ArpND	phy

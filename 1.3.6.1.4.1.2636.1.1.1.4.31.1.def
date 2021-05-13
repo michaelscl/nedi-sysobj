@@ -6,7 +6,7 @@ Type	Juniper-Ex4200
 Typoid	
 Sysdes	
 OS	JunOS
-Icon	vpan
+Icon	vpa
 Size	1
 Bridge	normal
 ArpND	old

@@ -7,7 +7,7 @@
 SNMPv	2
 Type	SMC2586W-G-EU
 OS	SMC
-Icon	wban
+Icon	wba
 Size	1
 Bridge	normal
 ArpND	

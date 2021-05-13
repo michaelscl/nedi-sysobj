@@ -6,7 +6,7 @@ Type	FC-Switch
 Typoid	
 Sysdes	
 OS	other
-Icon	fcrn
+Icon	fcr
 Size	0
 Bridge	
 ArpND	old

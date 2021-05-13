@@ -6,7 +6,7 @@ Type	cisco1905
 TypOID
 DesOID	1.3.6.1.4.1.9.3.6.5.0
 OS	IOS-rtr
-Icon	rsbn
+Icon	rsb
 Size	1
 Uptime	S
 Bridge

@@ -6,7 +6,7 @@ Type	M7i
 Typoid	
 Sysdes	
 OS	JunOS
-Icon	rman
+Icon	rma
 Size	2
 Bridge	
 ArpND	oldip6

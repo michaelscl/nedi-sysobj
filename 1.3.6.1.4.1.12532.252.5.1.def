@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	Juniper NetScreen-SA-4500
 OS	other
-Icon	vpgn
+Icon	vpg
 Size	1
 Bridge	
 ArpND	old

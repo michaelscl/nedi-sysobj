@@ -4,7 +4,7 @@
 SNMPv	2
 Type	WS-C2955T-12
 OS	IOS
-Icon	w2bp
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	

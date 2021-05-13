@@ -8,7 +8,7 @@
 SNMPv	2c
 Type	FGT600
 OS	FortiOS
-Icon	fwan
+Icon	fwa
 Size	1
 Bridge	
 ArpND	old

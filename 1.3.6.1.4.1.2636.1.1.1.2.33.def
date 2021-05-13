@@ -6,7 +6,7 @@ Type	Juniper-EX8216
 Typoid	
 Sysdes	
 OS	JunOS
-Icon	c3ad
+Icon	c3a
 Size	20
 Bridge	normal
 ArpND	old

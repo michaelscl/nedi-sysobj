@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	ciscoNme16Es1Ge
 OS	IOS
-Icon	genc
+Icon	gen
 Bridge	VLX
 ArpND	
 Dispro	CDP

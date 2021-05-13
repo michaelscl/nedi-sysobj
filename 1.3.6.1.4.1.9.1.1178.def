@@ -6,7 +6,7 @@ Type	WS-C4948E-10GE
 Typoid	
 Sysdes	
 OS	IOS
-Icon	w3bd
+Icon	w3b
 Size	1
 Bridge	VLX
 ArpND	old

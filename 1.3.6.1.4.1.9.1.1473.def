@@ -6,7 +6,7 @@ Type	IE-2000-8TC-G-L
 Typoid
 Sysdes
 OS	IOS
-Icon	w2bp
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	oldphy

@@ -6,7 +6,7 @@ Type	cisco3925e
 Typoid	
 Sysdes	
 OS	IOS
-Icon	rmbn
+Icon	rmb
 Size	2
 Bridge	VLX
 ArpND	oldphy

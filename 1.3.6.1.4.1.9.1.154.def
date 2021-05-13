@@ -3,7 +3,7 @@
 SNMPv	2HC
 Type	ciscoAS2511-RJ
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	
 ArpND	old

@@ -6,7 +6,7 @@ Type	HP2530-48G-PoEP
 Typoid	
 Sysdes	
 OS	ProCurve
-Icon	w2gp
+Icon	w2g
 Size	1
 Bridge	normal
 ArpND	phy

@@ -6,7 +6,7 @@ Type	HPVSR1000
 Typoid	
 Sysdes	
 OS	Comware
-Icon	spgn
+Icon	spg
 Size	0
 Bridge	
 ArpND	oldip6

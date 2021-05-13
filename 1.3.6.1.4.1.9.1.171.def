@@ -6,7 +6,7 @@ Type	WS-C2916M-XL
 Typoid	
 Sysdes	
 OS	IOS
-Icon	w2bp
+Icon	w2b
 Size	1
 Bridge	qbri
 ArpND	old

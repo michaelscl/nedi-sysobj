@@ -6,7 +6,7 @@ Type	HPMSR20-13
 Typoid	
 Sysdes	
 OS	Comware
-Icon	rsgn
+Icon	rsg
 Size	0
 Bridge	qbriX
 ArpND	oldip6

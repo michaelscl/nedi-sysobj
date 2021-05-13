@@ -5,7 +5,7 @@ SNMPv	2HC
 Type	3Com-SS3-3870-48
 Sysdes	
 OS	other
-Icon	w3gd
+Icon	w3g
 Size	1
 Bridge	qbri
 ArpND	old

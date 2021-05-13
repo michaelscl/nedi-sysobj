@@ -6,7 +6,7 @@ Type	checkPointVMware
 Typoid	
 Sysdes	
 OS	other
-Icon	vmbn
+Icon	vmb
 Size	1
 Bridge	
 ArpND	oldphy

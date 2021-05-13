@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	WS-C4948-10GE
 OS	IOS
-Icon	w3bd
+Icon	w3b
 Size	1
 Bridge	VLX
 ArpND	old

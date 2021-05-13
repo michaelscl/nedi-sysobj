@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	catalyst6kMsfc2
 OS	IOS
-Icon	spbn
+Icon	spb
 Bridge	
 ArpND	old
 Dispro	CDP

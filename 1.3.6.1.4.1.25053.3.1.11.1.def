@@ -6,7 +6,7 @@ Type	SmartZone
 TypOID	1.3.6.1.4.1.25053.1.8.1.1.1.1.1.1.3.12.53.48.49.54.53.54.48.48.48.49.55.54
 DesOID	
 OS	ZDOS
-Icon	wcan
+Icon	wca
 Size	1
 Uptime	U
 Bridge	SZ

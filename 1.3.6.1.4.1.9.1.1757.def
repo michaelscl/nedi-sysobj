@@ -6,7 +6,7 @@ Type	WS-C2960P24TcS
 TypOID
 DesOID
 OS	IOS
-Icon	w2bn
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	oldcie

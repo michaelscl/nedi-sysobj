@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	Cat4503-E
 OS	IOS
-Icon	c3bp
+Icon	c3b
 Size	4
 Bridge	VLX
 ArpND	old

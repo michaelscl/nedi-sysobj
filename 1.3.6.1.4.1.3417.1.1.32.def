@@ -4,7 +4,7 @@
 SNMPv	2
 Type	BlueCoat SG 300
 OS	other
-Icon	cspn
+Icon	csp
 Size	10
 Bridge	
 ArpND	old

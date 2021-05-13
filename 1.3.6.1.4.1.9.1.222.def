@@ -6,7 +6,7 @@ Type	cisco7206VXR
 Typoid	
 Sysdes	
 OS	IOS-rtr
-Icon	rmbn
+Icon	rmb
 Size	3
 Bridge	VLX
 ArpND	phy

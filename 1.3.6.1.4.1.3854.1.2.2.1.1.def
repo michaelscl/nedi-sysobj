@@ -4,7 +4,7 @@
 SNMPv	1
 Type	akcp-HHMSS
 OS	other
-Icon	csan
+Icon	csa
 Size	10
 Bridge	
 ArpND	old

@@ -4,7 +4,7 @@
 SNMPv	1
 Type	VPN3030
 OS	Cvpn
-Icon	vpbn
+Icon	vpb
 Size	1
 Bridge	
 ArpND	old

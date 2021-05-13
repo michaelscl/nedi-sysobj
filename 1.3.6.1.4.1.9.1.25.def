@@ -4,7 +4,7 @@
 SNMPv	1
 Type	C2500-DS40-L
 OS	IOS
-Icon	rsbn
+Icon	rsb
 Size	1
 Bridge	
 ArpND	old

@@ -6,7 +6,7 @@ Type	ASR9904
 TypOID	1.3.6.1.2.1.47.1.1.1.1.13.1
 DesOID
 OS	IOS-xr
-Icon	rmbn
+Icon	rmb
 Size	5
 Uptime	S
 Bridge	VLX

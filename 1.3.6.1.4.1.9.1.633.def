@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	WS-3560-24TS
 OS	IOS
-Icon	w3bn
+Icon	w3b
 Size	1
 Bridge	VLX
 ArpND	old

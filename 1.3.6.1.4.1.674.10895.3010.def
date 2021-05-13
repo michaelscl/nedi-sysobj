@@ -6,7 +6,7 @@ Type	PowerConnect6224
 Typoid	
 Sysdes	
 OS	other
-Icon	w2cn
+Icon	w2c
 Size	1
 Bridge	qbri
 ArpND	old

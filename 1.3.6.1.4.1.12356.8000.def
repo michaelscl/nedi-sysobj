@@ -8,7 +8,7 @@
 SNMPv	2c
 Type	FGT800
 OS	FortiOS
-Icon	fwan
+Icon	fwa
 Size	1
 Bridge	
 ArpND	old

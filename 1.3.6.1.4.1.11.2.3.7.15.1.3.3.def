@@ -6,7 +6,7 @@ Type	830-24P
 Typoid	
 Sysdes	
 OS	Comware
-Icon	wcgn
+Icon	wcg
 Size	1
 Bridge	qbri
 ArpND	oldip6

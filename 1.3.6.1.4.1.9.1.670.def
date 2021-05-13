@@ -6,7 +6,7 @@ Type	ASA5520
 Typoid	
 Sysdes	
 OS	IOS-asa
-Icon	vpbn
+Icon	vpb
 Size	1
 Bridge	
 ArpND	old

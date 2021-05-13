@@ -7,7 +7,7 @@
 SNMPv	2HC
 Type	Cisco-3640
 OS	IOS
-Icon	rmbn
+Icon	rmb
 Size	4
 Bridge	VLX	
 ArpND	old

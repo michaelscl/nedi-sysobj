@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	WS-C3030Del
 OS	IOS
-Icon	w2bp
+Icon	w2b
 Size	1
 Bridge	VLX
 ArpND	
