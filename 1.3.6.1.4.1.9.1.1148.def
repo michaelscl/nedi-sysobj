@@ -2,7 +2,7 @@
 SNMPv	2HC
 Type	WS-C2960-48PST-S
 OS	IOS
-Icon	w2b
+Icon	s2l
 Bridge	VLX
 Dispro	CDP
 Serial	1.3.6.1.2.1.47.1.1.1.1.11.1001

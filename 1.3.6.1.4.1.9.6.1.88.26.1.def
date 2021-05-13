@@ -6,7 +6,7 @@ Type	SG200-26
 TypOID	1.3.6.1.2.1.47.1.1.1.1.13.1
 DesOID	1.3.6.1.4.1.9.6.1.101.53.14.1.11.1
 OS	other
-Icon	w2b
+Icon	s2l
 Size	1
 TempAlert	
 Bridge	normal

@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	HP6600-24G-4XG
 OS	ProCurve
-Icon	w3g
+Icon	s3ll
 Size	1
 Bridge	normal
 ArpND	phy
