@@ -6,7 +6,7 @@ Type	ALU-OS6855-14
 Typoid	
 Sysdes	
 OS	Omnistack
-Icon	s3ll
+Icon	s3l
 Size	0
 Bridge	qbri
 ArpND	old

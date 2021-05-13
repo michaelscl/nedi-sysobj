@@ -4,7 +4,7 @@
 SNMPv	2HC
 Type	HP2600-8-PWR
 OS	ProCurve
-Icon	s3ll
+Icon	s3l
 Size	1
 Bridge	normal
 ArpND	old

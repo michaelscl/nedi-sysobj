@@ -6,7 +6,7 @@ Type	juniper Ex4200
 Typoid	
 Sysdes	
 OS	JunOS
-Icon	s3ll
+Icon	s3l
 Size	1
 Bridge	qbriX
 ArpND	old

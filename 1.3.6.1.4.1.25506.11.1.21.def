@@ -6,7 +6,7 @@ Type	5800-48G-2Slot
 Typoid	
 Sysdes	
 OS	Comware
-Icon	s3ll
+Icon	s3l
 Size	2
 Bridge	qbriX
 ArpND	oldip6

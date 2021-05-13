@@ -6,7 +6,7 @@ Type	ALU-OS6850E-24X
 Typoid	
 Sysdes	
 OS	Omnistack
-Icon	s3ll
+Icon	s3l
 Size	1
 Bridge	qbriX
 ArpND	old

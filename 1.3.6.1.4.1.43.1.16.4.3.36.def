@@ -5,7 +5,7 @@ SNMPv	2HC
 Type	3Com-4800G-PWR-24
 Sysdes	
 OS	Comware
-Icon	s3ll
+Icon	s3l
 Size	1
 Bridge	normalX
 ArpND	old

@@ -6,7 +6,7 @@ Type	N5K-C5020P-BF
 Typoid	
 Sysdes	
 OS	NXOS
-Icon	s3ll
+Icon	s3l
 Size	2
 Bridge	VLX
 ArpND	phy

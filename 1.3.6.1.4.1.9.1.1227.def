@@ -7,7 +7,7 @@
 SNMPv	2HC
 Type	WS-C3560X-48T-L
 OS	IOS
-Icon	s3ll
+Icon	s3l
 Bridge	VLX
 ArpND	
 Dispro	CDP

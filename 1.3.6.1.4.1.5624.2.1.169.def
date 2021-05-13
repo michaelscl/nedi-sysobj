@@ -6,7 +6,7 @@ Type	S8-Chassis Bonded
 TypOID	
 DesOID	
 OS	EOS
-Icon	s3ll
+Icon	s3l
 Size	4
 TempAlert	
 Bridge	qbriX

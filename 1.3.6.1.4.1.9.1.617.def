@@ -5,7 +5,7 @@
 SNMPv	2HC
 Type	WS-C3560G-48TS-S
 OS	IOS
-Icon	s3ll
+Icon	s3l
 Size	1
 Bridge	VLX
 ArpND	old

@@ -6,7 +6,7 @@ Type	WS-C3550-24-PWR
 Typoid	
 Sysdes	
 OS	IOS
-Icon	s3ll
+Icon	s3l
 Size	1
 Bridge	VLX
 ArpND	old

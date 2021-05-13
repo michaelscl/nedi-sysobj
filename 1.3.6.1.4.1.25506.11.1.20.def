@@ -6,7 +6,7 @@ Type	5800-24G-SFP
 Typoid	 
 Sysdes	 
 OS	Comware 
-Icon	s3ll 
+Icon	s3l 
 Size	1 
 Bridge	qbriX 
 ArpND	oldphy 
