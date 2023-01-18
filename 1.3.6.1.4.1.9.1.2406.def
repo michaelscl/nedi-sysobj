@@ -1,0 +1,62 @@
+# Definition for 1.3.6.1.4.1.9.1.2406 created by Defed 2.1 on 13.Oct 2021 (muloadmin)
+# Main
+SNMPv	2HC
+Type	ciscoFpr2130td
+TypOID
+NamOID
+DesOID
+OS	IOS-asa
+Icon	fwm
+Size	1
+Uptime	S
+Bridge
+ArpND	phy
+Dispro	CDP
+Serial	1.3.6.1.2.1.47.1.1.1.1.11.9
+Bimage
+VLnams
+VLnamx
+Group	1.3.6.1.4.1.9.9.147.1.2.1.1.1.2.6
+Mode
+CfgChg
+CfgWrt
+FTPConf
+Fanstat
+# Interfaces
+StartX	3
+EndX
+IFname	1.3.6.1.2.1.31.1.1.1.1
+IFaddr	adr
+IFalia	1.3.6.1.2.1.31.1.1.1.18
+IFalix
+InBcast	1.3.6.1.2.1.31.1.1.1.3
+InDisc	1.3.6.1.2.1.2.2.1.13
+OutDisc	1.3.6.1.2.1.2.2.1.19
+IFvlan
+IFvlix
+IFpowr
+IFpwix
+IFpalc
+IFdupl
+IFduix
+Halfdp
+Fulldp
+# Modules
+Modom
+Moslot	1.3.6.1.2.1.47.1.1.1.1.4
+Moclas	1.3.6.1.2.1.47.1.1.1.1.5
+Movalu	1|3|6|7|9|12
+Modesc	1.3.6.1.2.1.47.1.1.1.1.2
+Modhw	1.3.6.1.2.1.47.1.1.1.1.8
+Modfw	1.3.6.1.2.1.47.1.1.1.1.10
+Modsw	1.3.6.1.2.1.47.1.1.1.1.13
+Modser	1.3.6.1.2.1.47.1.1.1.1.11
+Momodl	1.3.6.1.2.1.47.1.1.1.1.9
+Modloc	1.3.6.1.2.1.47.1.1.1.1.7
+Mostat
+Mostok
+# RRD Graphing
+CPUutl	1.3.6.1.4.1.9.9.109.1.1.1.1.7.1                    85
+Temp
+MemCPU	1.3.6.1.4.1.9.9.48.1.1.1.6.1
+Custom	Connections;G;#             1.3.6.1.4.1.9.9.147.1.2.2.2.1.5.40.6         

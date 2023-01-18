@@ -1,0 +1,66 @@
+# Definition for 1.3.6.1.4.1.29671.2.118 created by Defed 1.9 on 15.Oct 2020 (kortenhorn.karsten)
+
+# Main
+SNMPv	2
+Type	
+TypOID	1.3.6.1.2.1.1.1.0
+NamOID	1.3.6.1.2.1.1.5.0
+DesOID	
+OS	other
+Icon	s2m
+Size	1
+Uptime	S
+Bridge	
+ArpND	
+Dispro	
+Serial	
+Bimage	
+VLnams		
+VLnamx	
+Group	
+Mode	
+CfgChg	
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	1.3.6.1.2.1.2.2.1.2
+IFaddr		
+IFalia	1.3.6.1.2.1.31.1.1.1.1
+IFalix	
+InBcast	
+InDisc	
+OutDisc	
+IFvlan		
+IFvlix	
+IFpowr		
+IFpwix	
+IFpalc	
+IFdupl	
+IFduix	
+Halfdp	
+Fulldp	
+
+# Modules
+Modom		
+Moslot	
+Moclas	
+Movalu	
+Modesc	
+Modhw	
+Modfw	
+Modsw	
+Modser	
+Momodl	
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl			
+Temp			
+MemCPU			
+Custom			

@@ -1,0 +1,66 @@
+# Definition for 1.3.6.1.4.1.18334.1.1.1.2.1.50.2.1 created by Defed 1.9 on 28.Aug 2020 (kessler)
+
+# Main
+SNMPv	1
+Type	bizhub C280
+TypOID	Konica Minolta
+NamOID	
+DesOID	
+OS	other
+Icon	s2m
+Size	1
+Uptime	U
+Bridge	
+ArpND	
+Dispro	
+Serial	
+Bimage	
+VLnams		
+VLnamx	
+Group	
+Mode	
+CfgChg	
+CfgWrt	
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	
+IFaddr		
+IFalia	
+IFalix	
+InBcast	
+InDisc	
+OutDisc	
+IFvlan		
+IFvlix	
+IFpowr		
+IFpwix	
+IFpalc	
+IFdupl	
+IFduix	
+Halfdp	
+Fulldp	
+
+# Modules
+Modom		
+Moslot	1.3.6.1.2.1.43.11.1.1.5.1
+Moclas	
+Movalu	30
+Modesc	1.3.6.1.2.1.43.11.1.1.6.1
+Modhw	1.3.6.1.2.1.43.11.1.1.9.1
+Modfw	1.3.6.1.2.1.43.11.1.1.8.1
+Modsw	
+Modser	
+Momodl	
+Modloc	
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl			
+Temp			
+MemCPU			
+Custom			

@@ -1,0 +1,66 @@
+# Definition for 1.3.6.1.4.1.2011.2.239.42 created by Defed 1.9 on 2.Sep 2021 (rickli)
+
+# Main
+SNMPv	2HC
+Type	CE6851-48S6Q-HI
+TypOID	
+NamOID	
+DesOID	1.3.6.1.2.1.1.1.0
+OS	HuaweiVRP
+Icon	s3m
+Size	1
+Uptime	S
+Bridge	normalX
+ArpND	oldphy
+Dispro	LLDPXN
+Serial	1.3.6.1.2.1.47.1.1.1.1.11.16842753
+Bimage	
+VLnams	1.3.6.1.4.1.2011.5.25.42.3.1.1.1.1.2	
+VLnamx	1.3.6.1.4.1.2011.5.25.112.1.15.1.2.0
+Group	
+Mode	
+CfgChg	1.3.6.1.4.1.2011.6.10.1.1.1.0
+CfgWrt	1.3.6.1.4.1.2011.6.10.1.1.2.0
+FTPConf	
+Fanstat		
+
+# Interfaces
+StartX	
+EndX	
+IFname	1.3.6.1.2.1.31.1.1.1.1
+IFaddr	oldadr	
+IFalia	1.3.6.1.2.1.31.1.1.1.18
+IFalix	
+InBcast	1.3.6.1.2.1.31.1.1.1.3
+InDisc	1.3.6.1.2.1.2.2.1.13
+OutDisc	1.3.6.1.2.1.2.2.1.19
+IFvlan	1.3.6.1.4.1.2011.5.25.42.1.1.1.3.1.4	
+IFvlix	
+IFpowr	1.3.6.1.4.1.9.9.402.1.2.1.7	
+IFpwix	
+IFpalc	
+IFdupl	1.3.6.1.2.1.10.7.2.1.19
+IFduix	
+Halfdp	2
+Fulldp	3
+
+# Modules
+Modom		
+Moslot	1.3.6.1.2.1.47.1.1.1.1.7
+Moclas	1.3.6.1.2.1.47.1.1.1.1.5
+Movalu	3|6|10
+Modesc	1.3.6.1.2.1.47.1.1.1.1.2
+Modhw	1.3.6.1.2.1.47.1.1.1.1.8
+Modfw	1.3.6.1.2.1.47.1.1.1.1.9
+Modsw	1.3.6.1.2.1.47.1.1.1.1.10
+Modser	1.3.6.1.2.1.47.1.1.1.1.11
+Momodl	1.3.6.1.2.1.47.1.1.1.1.13
+Modloc	1.3.6.1.2.1.47.1.1.1.1.11
+Mostat	
+Mostok	
+
+# RRD Graphing
+CPUutl	1.3.6.1.4.1.2011.6.3.4.1.2.0.0.0		
+Temp	1.3.6.1.4.1.9.9.13.1.3.1.3.1011		
+MemCPU	1.3.6.1.4.1.2011.6.3.5.1.1.2.0.0.0		
+Custom	Mem IO;G;Bytes free	1.3.6.1.4.1.9.9.109.1.1.1.1.13.1000	
