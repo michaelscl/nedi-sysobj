@@ -2,8 +2,8 @@
 
 # Main
 SNMPv	2HC
-Type	C9200-24P
-TypOID	
+Type	
+TypOID	1.3.6.1.2.1.47.1.1.1.1.2.1001
 NamOID	
 DesOID	
 OS	IOS
